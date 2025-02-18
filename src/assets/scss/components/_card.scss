@@ -1,0 +1,57 @@
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+    
+    @include from(m) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include from(xl) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+}
+
+.card {
+    min-width: 200px;
+    flex: 1;
+    
+    &.normal {
+        border: 1.5px solid color(border);
+    }
+
+    &.special {
+        background: linear-gradient(
+            90deg,
+            color(primary),
+            color(secondary),
+        );
+        border-radius: 1rem;
+    }
+
+    &__image {
+        overflow: hidden;
+    }
+
+    &__content {
+        padding: 1.5rem;
+    }
+
+    &__subtitle {
+        opacity: .75;
+    }
+
+    &__description {
+        text-align: justify;
+    }
+
+    &__footer {
+        margin-top: 1rem;
+        padding-top: 1rem;
+        border-top: 1px solid color(border);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

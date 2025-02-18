@@ -1,0 +1,73 @@
+.arcticles-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    
+    @include from(l) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    & > .article:nth-child(odd) {
+        .article__image {
+            background-color: color(primary);
+        }
+    }
+    
+    & > .article:nth-child(even) {
+        .article__image {
+            background-color: color(secondary);
+        }
+
+    }
+}
+
+.article {
+    width: 100%;
+    border: 2px solid color(border);
+    display: grid;
+    place-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    
+    @include from(s) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    &__description {
+        text-align: justify;
+    }
+
+    &__image {
+        --background-width: 10rem;
+        width: var(--background-width);
+        height: var(--background-width);
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 100%;
+        
+    }
+
+    &__image img {
+        width: calc(var(--background-width) / 2);
+        height: calc(var(--background-width) / 2);
+        animation: float 3s ease-in-out infinite;
+    }
+
+    &__footer {
+        width: 100%;
+        border-top: 1px solid color(border);
+        margin-top: 1rem;
+        padding-top: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

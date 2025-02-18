@@ -1,0 +1,67 @@
+.btn {
+    width: fit-content;
+    display: inline-block;
+    padding: .75em 2em;
+    font-size: .75rem;
+    font-weight: 700;
+    line-height: 1.25;
+    background-color: color(dark);
+    color: color(text);
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border: none;
+    border-radius: 0.375rem;
+    transform: scale(1);
+    transition: color .15s ease-in-out, background-color .3s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out, transform .3s ease-in-out;
+
+    @include from(l) {
+        font-size: 1rem;
+    }
+
+    &:hover {
+        color: color(dark);
+        background-color: color(text)
+    }
+}
+
+.btn-special {
+    min-width: fit-content;
+    background: transparent;
+    color: color(text);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    transition: .3s;
+    padding: .5rem 1rem;
+    border: 2px solid color(border);
+    cursor: pointer;
+    z-index: var(--z-normal);
+
+    &::before {
+        content: '';
+        width: 0;
+        height: 500%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) rotate(30deg);
+        background: color(text);
+        transition: .5s ease;
+        display: block;
+        z-index: var(--z-back);
+    }
+        
+    &:hover {
+        color: color(dark);
+        border: 2px solid transparent;
+
+        &::before {
+            width: 105%;
+        }
+    }
+}

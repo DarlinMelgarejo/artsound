@@ -1,0 +1,51 @@
+.flex {
+    display: flex;
+}
+
+@each $key, $breakpoint in $breakpoints {
+    @include from($key) {
+        .flex-#{$key} {
+            display: flex !important;
+        }
+    }
+} 
+
+
+@for $i from 1 through 5 {
+    .gap-#{$i} {
+        gap: #{$i*1rem};
+    }
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+@each $key, $breakpoint in $breakpoints {
+    @include from($key) {
+        .flex-column-#{$key} {
+            flex-direction: column;
+        }
+        
+        .flex-row-#{key} {
+            flex-direction: row;
+        }
+        
+    }
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.content-center {
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}

@@ -1,0 +1,96 @@
+.carousel {
+    width: 100%;
+    height: 30dvb;
+    position: relative;
+    overflow: hidden;
+
+    @include from(s) {
+        width: 80%;
+        height: 40dvb;
+    }
+
+    @include from(m) {
+        height: 50dvb;
+    }
+
+    @include from(l) {
+        height: 60dvb;
+    }
+
+    @include from(xl) {
+        height: 80dvb;
+    }
+
+    &__inner {
+        width: 100%;
+        height: 100%;
+    }
+
+    &__item {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 0.5s ease-in-out;
+
+        &.active {
+            opacity: 1;
+        }
+
+        &-figure {
+            z-index: 1;
+            position: relative;
+            margin: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        &-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        &-content {
+            z-index: 2;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1));
+            opacity: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        &:hover &-content {
+            opacity: 1;
+        }
+    }
+
+    &__arrow {
+        background: transparent;
+        color: color(text);
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%); /* Aseguramos que las flechas estén centradas */
+        border: none;
+        outline: none;
+        cursor: pointer;
+        z-index: 3;
+
+        &.prev {
+            left: 0; /* Ajusta si lo necesitas más a la izquierda */
+        }
+
+        &.next {
+            right: 0; /* Ajusta si lo necesitas más a la derecha */
+        }
+    }
+}

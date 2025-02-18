@@ -1,0 +1,16 @@
+@for $i from 1 through 20 {
+    .width-#{$i * 5} {
+        width: #{$i * 5%};
+    }
+}
+
+@each $key, $breakpoint in $breakpoints {
+    @include from($key) {
+        @for $i from 1 through 20 {
+            .width-#{$key}-#{$i * 5} {
+                width: #{$i * 5%};
+            }
+        }
+        
+    }
+} 

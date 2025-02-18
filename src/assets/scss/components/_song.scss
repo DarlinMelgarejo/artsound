@@ -1,0 +1,88 @@
+.song {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 4rem;
+    padding: 0 1rem;
+    border-radius: 1rem;
+    transition: .4s ease-in-out;
+    text-decoration: none;
+    background: none;
+    // border: 1px solid color(text);
+    width: 100%;
+    cursor: pointer;
+    margin: 0;
+    outline: none;
+
+    &__name {
+        width: 100%;
+        text-align: left;
+        color: color(text);
+    }
+
+    &:hover {
+        background-color: color(text);
+
+        .song__name {
+            color: color(black);
+        }
+
+        .play {
+            .load {
+                background-color: color(dark);
+            }
+        }
+    }
+
+    &__album {
+        max-height: 40px;
+        max-width: 40px;
+        margin-right: 1em;
+
+        img {
+            background-position: center;
+            background-repeat: no-repeat;
+            border-radius: 5px;
+        }
+    }
+
+}
+
+.pause {
+    height: 1rem;
+    width: 1rem;
+    background-color: color(black);
+    align-self: center;
+    margin: 1rem;
+    justify-self: center;
+
+    clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+
+}
+
+.play {
+    display: flex;
+    margin: 1rem;
+    height: 2rem;
+    align-items: flex-end;
+
+    .load {
+        width: 2px;
+        background-color: color(text);
+        animation: 1s play-move infinite;
+        border-radius: 5px;
+        margin: 0.1em;
+    }
+
+    .load:nth-child(1) {
+        animation-delay: 0.2s;
+    }
+    
+    .load:nth-child(2) {
+        animation-delay: 0.4s;
+    }
+    
+    .load:nth-child(3) {
+        animation-delay: 0.6s;
+    }
+}

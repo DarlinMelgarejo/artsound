@@ -1,0 +1,5 @@
+// Función para obtener un color del mapa
+@function color($key) {
+    @return map-get($colors, $key);
+}
+  

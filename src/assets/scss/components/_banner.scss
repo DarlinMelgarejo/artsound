@@ -1,0 +1,77 @@
+.main-banner {
+    height: calc(100vh - #{$header-height});
+    padding: 2rem 4rem;
+    background: linear-gradient(90deg,
+        color(primary) 0%,
+        color(secondary) 50%,
+        color(primary) 100%
+    );
+    background-size: 200%;
+    animation: background-shine 6s linear infinite;
+    color: color(white);
+    text-align: center;
+    display: grid;
+    place-items: center;
+    
+    &.artist {
+        height: calc(60vh - #{$header-height});
+
+        @include from(s) {
+            height: calc(70vh - #{$header-height});
+        }
+
+        @include from(m) {
+            height: calc(80vh - #{$header-height});
+        }
+
+        @include from(l) {
+            height: calc(90vh - #{$header-height});
+        }
+        @include from(xl) {
+            height: calc(100vh - #{$header-height});
+        }
+    }
+
+    &__content {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;        
+    }
+
+    &__title {
+        margin-bottom: 0;
+    }
+
+    &__descripcion {
+        font-size: var(--h3-font-size);
+    }
+
+    &__image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 60vh;
+        object-position: center;
+
+
+        @include from(s) {
+            height: 70vh;
+        }
+
+        @include from(m) {
+            height: 80vh;
+        }
+
+        @include from(l) {
+            height: 90vh;
+        }
+
+        @include from(xl) {
+            height: 100vh;
+        }
+    }
+}

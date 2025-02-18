@@ -1,0 +1,238 @@
+{
+    "genres": [
+        {
+            "id": 1,
+            "icon": "/images/genres/icons/electronica.png",
+            "image": "/images/genres/electronica.jpg",
+            "alt_image": "Imagen del género musical electrónica",
+            "title": "Electrónica",
+            "subtitle": "Orígenes: 1970",
+            "description": "La música electrónica es un género basado en la manipulación de sonidos generados electrónicamente mediante sintetizadores, samplers y computadoras. Se caracteriza por su diversidad de estilos, desde ambient hasta techno, y su fuerte presencia en la cultura de clubes y festivales de todo el mundo.",
+            "hystory": "La música electrónica tiene sus orígenes a principios del siglo XX con la invención de dispositivos como el Theremin y el Ondes Martenot. En los años 50 y 60, la música concreta y la experimentación con sintetizadores dieron paso a nuevas formas de producción sonora. Durante los años 70, bandas como Kraftwerk popularizaron los sonidos electrónicos, influenciando géneros como el synthpop y el new wave. En los 80, la llegada de la música house en Chicago y el techno en Detroit consolidaron la electrónica en la escena dance. Durante los 90 y 2000, la tecnología digital permitió la diversificación del género, dando lugar a subgéneros como trance, drum and bass y EDM. Hoy en día, la música electrónica sigue evolucionando, influyendo en múltiples géneros y dominando festivales a nivel mundial.",
+            "characteristics": [
+                {
+                    "title": "Ritmo",
+                    "description": "Varía según el subgénero, desde tempos lentos en ambient hasta beats acelerados en drum and bass. La repetición rítmica y los drops son elementos clave."
+                },
+                {
+                    "title": "Instrumentos típicos",
+                    "description": "Sintetizadores, cajas de ritmos, samplers y software de producción como Ableton Live o FL Studio."
+                },
+                {
+                    "title": "Estructura de las canciones",
+                    "description": "Suele incluir introducción, build-up, drop y outro. Muchos temas se construyen en capas progresivas."
+                },
+                {
+                    "title": "Sonido y producción",
+                    "description": "Uso intensivo de efectos como reverb, delay y sidechain, además de técnicas como la modulación de ondas y automatización dinámica."
+                }
+            ],
+            "featured_artist": "avicii",
+            "impact": "La música electrónica ha transformado la cultura musical y social en múltiples aspectos. En los años 80 y 90, la cultura rave se convirtió en un movimiento contracultural que promovía la libertad de expresión y la unidad en la pista de baile. Eventos masivos como Love Parade en Berlín atrajeron a cientos de miles de personas, consolidando la electrónica como un fenómeno global. En la moda, ha influenciado desde la vestimenta fluorescente en los raves hasta estilos más minimalistas en festivales como Coachella. En los medios, la música electrónica es un elemento clave en bandas sonoras de películas y videojuegos, potenciando emociones y experiencias inmersivas. Su impacto social también se ve en la accesibilidad: cualquier persona con una computadora y software puede crear música sin necesidad de grandes estudios. Además, ha derribado barreras geográficas, permitiendo colaboraciones globales entre artistas y fusionándose con géneros como el pop, el hip-hop y el rock.",
+            "curious_facts": [
+                "El Theremin, uno de los primeros instrumentos electrónicos, se toca sin contacto físico, solo con el movimiento de las manos.",
+                "Kraftwerk, pioneros del género, fueron los primeros en usar un sintetizador de voz en una canción.",
+                "La música house se originó en Chicago en los 80, en clubes como The Warehouse, de donde proviene su nombre.",
+                "Oxygen de Jean-Michel Jarre fue grabado en su estudio casero con equipos análogos, revolucionando la producción independiente.",
+                "El festival Tomorrowland en Bélgica recibe a más de 400,000 asistentes cada año, siendo uno de los eventos electrónicos más grandes.",
+                "Algunos DJs famosos, como Deadmau5, empezaron sus carreras componiendo música para videojuegos antes de saltar a la escena musical."
+            ],
+            "link": "electronica"
+        },
+        {
+            "id": 2,
+            "icon": "/images/genres/icons/pop.png",
+            "image": "/images/genres/pop.jpg",
+            "alt_image": "Imagen del género musical pop",
+            "title": "Pop",
+            "subtitle": "Orígenes: 1950",
+            "description": "El pop es un género musical caracterizado por su accesibilidad, estructuras melódicas pegajosas y producción pulida. Surgió a mediados del siglo XX como una evolución del rock and roll y la música comercial. Su estilo abarca una gran variedad de influencias, desde el dance hasta el R&B, y domina la música popular global.",
+            "hystory": "El pop nació en los años 50 y 60 con la llegada del rock and roll, combinando melodías pegajosas con letras accesibles. Artistas como Elvis Presley y The Beatles ayudaron a moldear su sonido, alejándose de la crudeza del rock para enfocarse en la armonía y producción pulida. En los 70 y 80, el pop se consolidó con figuras como Michael Jackson y Madonna, quienes incorporaron influencias del disco, el funk y el R&B. Con el auge de MTV, los videoclips se convirtieron en una herramienta clave para la difusión del género. En los 90 y 2000, el pop tomó elementos del hip-hop y la electrónica, dando lugar a fenómenos como Britney Spears, NSYNC y Lady Gaga. Hoy en día, el pop sigue evolucionando con artistas como Taylor Swift, The Weeknd y Dua Lipa, adaptándose a las tendencias digitales y a la fusión de géneros.",
+            "characteristics": [
+                {
+                    "title": "Ritmo",
+                    "description": "Generalmente entre 100 y 130 BPM, con estructuras rítmicas simples y pegajosas."
+                },
+                {
+                    "title": "Instrumentos típicos",
+                    "description": "Guitarras, sintetizadores, teclados, baterías electrónicas y efectos vocales."
+                },
+                {
+                    "title": "Estructura de las canciones",
+                    "description": "Verso-estribillo-verso con puentes melódicos y coros repetitivos que facilitan la memorización."
+                },
+                {
+                    "title": "Sonido y producción",
+                    "description": "Uso de armonías vocales, efectos de producción como autotune y mezcla limpia para maximizar su impacto en radio y streaming."
+                }
+            ],
+            "featured_artist": "michael-jackson",
+            "impact": "El pop ha sido un reflejo de la cultura popular, adaptándose a cada época y marcando tendencias en moda, cine y tecnología. En los 80, los videoclips transformaron la forma de consumir música, mientras que en los 2000, el auge de plataformas como YouTube permitió la viralización de artistas emergentes. También ha jugado un papel clave en la globalización de la música, con el fenómeno del K-pop como ejemplo de su expansión internacional. Movimientos como el feminismo y la diversidad han encontrado en el pop un espacio de expresión, con artistas como Beyoncé y Harry Styles promoviendo mensajes de inclusión. En la actualidad, la música pop está impulsada por algoritmos y plataformas de streaming, lo que ha cambiado la forma en que se crean y distribuyen los éxitos musicales.",
+            "curious_facts": [
+                "Thriller de Michael Jackson es el álbum más vendido de la historia, con más de 70 millones de copias.",
+                "El término ❝pop❞ proviene de ❝popular❞, haciendo referencia a su accesibilidad y amplio alcance.",
+                "Madonna ha sido apodada la ❝Reina del Pop❞ debido a su impacto en la música y la moda.",
+                "El K-pop, originado en Corea del Sur, ha llevado el pop a nuevas dimensiones globales con grupos como BTS y BLACKPINK.",
+                "Britney Spears vendió más de 10 millones de copias de su álbum debut ...Baby One More Time en su primer año.",
+                "Lady Gaga creó su personaje artístico inspirándose en la canción ❝Radio Ga Ga❞ de Queen."
+            ],
+            "link": "pop"
+        },
+        {
+            "id": 3,
+            "icon": "/images/genres/icons/kpop.png",
+            "image": "/images/genres/kpop.jpg",
+            "alt_image": "Imagen del género musical kpop",
+            "title": "K-Pop",
+            "subtitle": "Orígenes: 1990",
+            "description": "El K-Pop, o pop coreano, es un género musical originado en Corea del Sur que combina pop, hip-hop, R&B y electrónica con una producción visual impactante. Su estilo se caracteriza por coreografías sincronizadas, videoclips cinematográficos y un fuerte enfoque en la estética. Es un fenómeno global que ha revolucionado la industria musical.",
+            "hystory": "El K-Pop surgió en la década de 1990 con la influencia del pop occidental y la apertura cultural de Corea del Sur. En 1992, el grupo Seo Taiji and Boys revolucionó la música coreana al fusionar el pop con rap y sonidos electrónicos. A finales de los 90 y principios de los 2000, surgieron las primeras generaciones de idols con grupos como H.O.T., S.E.S. y BoA, quienes expandieron el género fuera de Corea. La segunda generación, con Super Junior, BIGBANG y Girls’ Generation, consolidó el K-Pop internacionalmente. En la década de 2010, BTS, BLACKPINK y EXO llevaron el género a una popularidad sin precedentes, dominando listas globales y realizando giras en todo el mundo. Hoy en día, el K-Pop continúa evolucionando con nuevos grupos y una fuerte presencia en redes sociales y plataformas digitales.",
+            "characteristics": [
+                {
+                    "title": "Ritmo",
+                    "description": "Varía entre baladas y beats electrónicos intensos, con cambios dinámicos dentro de una misma canción."
+                },
+                {
+                    "title": "Instrumentos típicos",
+                    "description": "Mezcla de sonidos sintetizados, beats electrónicos, guitarras y elementos orquestales en algunos casos."
+                },
+                {
+                    "title": "Estructura de las canciones",
+                    "description": "Combinación de secciones rítmicas y melódicas, con cambios de estilo inesperados y estribillos pegajosos."
+                },
+                {
+                    "title": "Sonido y producción",
+                    "description": "Producción altamente pulida, con armonías vocales, rap y efectos visuales sincronizados con la música."
+                }
+            ],
+            "featured_artist": "bts",
+            "impact": "El K-Pop ha sido clave en la globalización de la música coreana, impulsando la Ola Hallyu, que ha llevado la cultura surcoreana a todo el mundo. Su influencia va más allá de la música, impactando la moda, la belleza y la tecnología, con millones de seguidores replicando los estilos de sus idols. La relación entre artistas y fans es única, con una participación activa a través de redes sociales y plataformas como Weverse y VLive. Además, el K-Pop ha roto barreras lingüísticas, posicionando el idioma coreano en la música global y demostrando el poder del marketing digital en la industria. También ha sido un motor de cambio, apoyando causas sociales y fomentando la inclusión y diversidad dentro de su comunidad de seguidores.",
+            "curious_facts": [
+                "BLACKPINK fue el primer grupo femenino de K-Pop en presentarse en Coachella, marcando un hito en la industria.",
+                "BTS fue el primer grupo coreano en hablar en la ONU, promoviendo el amor propio con su campaña Love Myself.",
+                "EXO fue invitado a actuar en la ceremonia de clausura de los Juegos Olímpicos de Invierno de 2018.",
+                "La formación de idols es extremadamente rigurosa: los aprendices entrenan durante años antes de debutar.",
+                "Super Junior popularizó el término “Hallyu” al expandir el K-Pop a China y otros mercados asiáticos.",
+                "PSY y su éxito Gangnam Style fueron clave en la expansión del K-Pop a nivel mundial, siendo el primer video en superar mil millones de visitas en YouTube."
+            ],
+            "link": "kpop"
+        },
+        {
+            "id": 4,
+            "icon": "/images/genres/icons/rap.png",
+            "image": "/images/genres/rap.jpg",
+            "alt_image": "Imagen del género musical rap",
+            "title": "Rap",
+            "subtitle": "Orígenes: 1970",
+            "description": "El rap es un género musical basado en la recitación rítmica de rimas y versos sobre una base instrumental. Originado en las comunidades afroamericanas en los años 70, es un pilar del hip-hop y ha evolucionado en diversos estilos y fusiones, manteniendo su enfoque en la expresión personal y la crítica social.",
+            "hystory": "El rap surgió en la década de 1970 en el Bronx, Nueva York, como una forma de expresión de las comunidades afroamericanas y latinas. Nació en fiestas callejeras donde los DJs creaban ritmos con tornamesas mientras los MCs improvisaban rimas sobre la música. Pioneros como DJ Kool Herc, Grandmaster Flash y The Sugarhill Gang marcaron los primeros pasos del rap en la industria. En los 80, el género se consolidó con figuras como Run-D.M.C. y Public Enemy, quienes añadieron contenido social y político a sus letras. En los 90, el rap se diversificó con el auge del gangsta rap, liderado por artistas como 2Pac y The Notorious B.I.G., mientras que el rap alternativo y consciente ganó relevancia con artistas como Nas y Lauryn Hill. En los 2000, el género experimentó una expansión global con la llegada del trap y la influencia de la tecnología en la producción musical. Actualmente, artistas como Kendrick Lamar, Drake y J. Cole siguen redefiniendo el género, fusionándolo con otros estilos y expandiendo su impacto a nivel mundial.",
+            "characteristics": [
+                {
+                    "title": "Ritmo",
+                    "description": "Generalmente entre 80 y 120 BPM, con estructuras de compases repetitivos que enfatizan la métrica de las rimas."
+                },
+                {
+                    "title": "Instrumentos típicos",
+                    "description": "Bases electrónicas, samples de funk y soul, sintetizadores y beats creados digitalmente."
+                },
+                {
+                    "title": "Estructura de las canciones",
+                    "description": "Predominan versos largos con rimas complejas y estribillos pegajosos, a menudo con coros melódicos."
+                },
+                {
+                    "title": "Sonido y producción",
+                    "description": "Uso de loops, efectos como el autotune en el rap moderno y énfasis en la cadencia vocal del rapero."
+                }
+            ],
+            "featured_artist": "eminem",
+            "impact": "El rap ha sido una herramienta poderosa de protesta y narración de historias dentro de comunidades marginadas. Ha dado voz a movimientos sociales como Black Lives Matter y ha servido como medio de denuncia sobre la violencia, la pobreza y la discriminación. También ha influido en la moda urbana, el arte callejero y la industria cinematográfica. Su expansión global ha dado lugar a escenas de rap en distintos idiomas, demostrando su capacidad de adaptación cultural. En la actualidad, es uno de los géneros más populares del mundo, fusionándose con otros estilos como el pop y la electrónica, y dominando plataformas de streaming con artistas que han llevado el rap a un público masivo.",
+            "curious_facts": [
+                "❝Rapper’s Delight❞ de The Sugarhill Gang (1979) fue la primera canción de rap en volverse un éxito comercial.",
+                "Eminem tiene el récord Guinness por la canción con más palabras en un solo tema: Rap God, con 1,560 palabras en 6 minutos.",
+                "Jay-Z fue el primer rapero en convertirse en multimillonario gracias a su música y negocios.",
+                "En los 90, el conflicto entre el rap de la Costa Este y la Costa Oeste resultó en la trágica muerte de 2Pac y The Notorious B.I.G.",
+                "El freestyle es una de las formas más populares de rap improvisado y ha dado origen a batallas de gran prestigio como la Red Bull Batalla de Gallos.",
+                "El trap, una evolución del rap, nació en el sur de EE.UU. y ha influenciado el reguetón y otros géneros urbanos."
+            ],
+            "link": "rap"
+        },
+        {
+            "id": 5,
+            "icon": "/images/genres/icons/rock.png",
+            "image": "/images/genres/rock.jpg",
+            "alt_image": "Imagen del género musical rock",
+            "title": "Rock",
+            "subtitle": "Orígenes: 1950",
+            "description": "El rock es un género musical nacido en los años 50 que evolucionó a partir del rhythm and blues, el country y otros estilos. Se caracteriza por el uso de guitarras eléctricas, bajos y baterías, con ritmos dinámicos y letras que han abordado desde el amor hasta la protesta social.",
+            "hystory": "El rock nació en la década de 1950 en Estados Unidos, fusionando elementos del rhythm and blues y el country. Artistas como Chuck Berry, Little Richard y Elvis Presley popularizaron el género, dándole una identidad juvenil y rebelde. En los años 60, bandas británicas como The Beatles y The Rolling Stones impulsaron la llamada ❝Invasión Británica❞, haciendo del rock un fenómeno global. Durante los 70, el género se diversificó con el hard rock de Led Zeppelin y Queen, y el punk de The Ramones y The Clash, que llevó una actitud más contestataria. En los 80, surgieron subgéneros como el glam rock y el heavy metal con bandas como Guns N’ Roses y Metallica. Los 90 marcaron la explosión del grunge con Nirvana y Pearl Jam, mientras que en los 2000 el rock alternativo y el indie se popularizaron con The Strokes y Arctic Monkeys. A lo largo del tiempo, el rock ha mantenido su esencia mientras se adapta a nuevas tendencias, conservando su impacto cultural y social.",
+            "characteristics": [
+                {
+                    "title": "Ritmo",
+                    "description": "Predomina el compás de 4/4, con tempos variados que van desde baladas hasta ritmos acelerados y enérgicos."
+                },
+                {
+                    "title": "Instrumentos típicos",
+                    "description": "Guitarras eléctricas con distorsión, bajo, batería y ocasionalmente teclados o sintetizadores."
+                },
+                {
+                    "title": "Estructura de las canciones",
+                    "description": "Generalmente sigue la estructura de verso-estribillo con solos instrumentales destacados."
+                },
+                {
+                    "title": "Sonido y producción",
+                    "description": "Uso de amplificadores y efectos como reverb, delay y distorsión para crear un sonido potente."
+                }
+            ],
+            "featured_artist": "queen",
+            "impact": "El rock ha sido más que un género musical; ha representado movimientos de cambio y rebeldía en distintas épocas. En los años 60 y 70, se convirtió en la banda sonora de movimientos sociales como la lucha por los derechos civiles y la contracultura hippie. En los 80 y 90, el rock influyó en la moda y la actitud de la juventud, consolidándose como una expresión de identidad. Su impacto también se ha visto reflejado en el cine, la literatura y el arte, con íconos que han trascendido la música para convertirse en símbolos culturales. A pesar de que otros géneros han dominado la industria en los últimos años, el rock sigue vigente, fusionándose con nuevos estilos y manteniendo su espíritu transgresor en diversas partes del mundo.",
+            "curious_facts": [
+                "The Rolling Stones llevan más de 60 años en activo, siendo una de las bandas de rock más longevas.",
+                "El álbum más vendido de la historia es Thriller de Michael Jackson, pero el más vendido dentro del rock es Back in Black de AC/DC.",
+                "Queen dio uno de los conciertos más icónicos de la historia en Live Aid 1985, con Freddie Mercury cautivando a más de 70,000 personas en el estadio de Wembley.",
+                "Nirvana popularizó el grunge en los 90 con Smells Like Teen Spirit, considerada una de las mejores canciones de la historia del rock.",
+                "La guitarra eléctrica fue clave en la evolución del rock, y modelos como la Fender Stratocaster y la Gibson Les Paul se han convertido en símbolos del género.",
+                "Woodstock 1969 fue el festival más icónico de la historia del rock, reuniendo a más de 400,000 personas en un evento que marcó una generación."
+            ],
+            "link": "rock"
+        },
+        {
+            "id": 6,
+            "icon": "/images/genres/icons/alternativo.png",
+            "image": "/images/genres/alternativo.jpg",
+            "alt_image": "Imagen del género musical alternativo",
+            "title": "Alternativo",
+            "subtitle": "Orígenes: 1980",
+            "description": "El género alternativo es un término amplio que engloba estilos musicales fuera de la corriente principal. Surgió como una respuesta a la música comercial, abarcando el rock alternativo, indie, grunge, trip-hop y otros subgéneros. Se caracteriza por su espíritu experimental, independencia de grandes disqueras y fusión de múltiples influencias sonoras.",
+            "hystory": "El género alternativo comenzó a tomar forma en los años 70 y 80, cuando artistas y bandas buscaron alejarse del sonido dominante de la industria musical. En sus inicios, surgió como un movimiento underground dentro del rock y el pop, con bandas como R.E.M. y The Cure explorando nuevas direcciones sonoras. Durante los años 90, el alternativo ganó protagonismo con el auge del grunge, el britpop y el indie rock, representado por Nirvana, Oasis y Radiohead. A medida que los medios de comunicación y las plataformas digitales evolucionaron, el concepto de ❝alternativo❞ se expandió más allá del rock, incorporando elementos de la electrónica, el hip-hop y el folk en artistas como Björk, Gorillaz y Lana Del Rey. Actualmente, el género alternativo sigue redefiniéndose con la llegada de nuevas corrientes musicales que rompen con las estructuras tradicionales y desafían las normas del mainstream.",
+            "characteristics": [
+                {
+                    "title": "Ritmo",
+                    "description": "Puede variar desde lo relajado hasta lo enérgico, con estructuras rítmicas poco convencionales en muchos casos."
+                },
+                {
+                    "title": "Instrumentos típicos",
+                    "description": "Guitarras eléctricas y acústicas, sintetizadores, baterías y elementos electrónicos según el subgénero."
+                },
+                {
+                    "title": "Estructura de las canciones",
+                    "description": "No sigue un patrón fijo; algunas canciones mantienen el esquema clásico de verso-estribillo, mientras que otras exploran formas más experimentales."
+                },
+                {
+                    "title": "Sonido y producción",
+                    "description": "Mezcla de sonidos crudos con técnicas de producción innovadoras, incluyendo efectos de reverberación, distorsión y capas sonoras."
+                }
+            ],
+            "featured_artist": "arctic-monkeys",
+            "impact": "El género alternativo ha sido un refugio para quienes buscan una identidad musical fuera de lo comercial. En los años 90, representó la voz de la juventud desencantada con la sociedad de consumo, mientras que en los 2000 consolidó su presencia en festivales y plataformas digitales, permitiendo la independencia de muchos artistas. Su influencia se ha extendido al cine y la moda, con estilos que van desde el look grunge hasta lo vintage y lo minimalista. A nivel global, ha permitido la diversidad sonora y la experimentación sin límites, creando una comunidad de oyentes que valoran la autenticidad y la innovación en la música.",
+            "curious_facts": [
+                "La etiqueta ❝alternativo❞ se popularizó en los años 80 para definir a bandas fuera del circuito comercial.",
+                "El álbum Kid A de Radiohead fue considerado un punto de inflexión en la música alternativa, al incorporar electrónica y sonidos experimentales.",
+                "Björk es una de las artistas más innovadoras del género, combinando elementos de trip-hop, electrónica y avant-garde.",
+                "Gorillaz, la banda virtual de Damon Albarn, ha fusionado rock alternativo con hip-hop y electrónica, expandiendo los límites del género.",
+                "El festival Lollapalooza, fundado en 1991, ayudó a consolidar la escena alternativa a nivel internacional.",
+                "El indie rock, parte del alternativo, se fortaleció en los 2000 con bandas como The Strokes y Arctic Monkeys, impulsando el regreso de sonidos más crudos y melódicos."
+            ],
+            "link": "alternativo"
+        }
+    ]
+}

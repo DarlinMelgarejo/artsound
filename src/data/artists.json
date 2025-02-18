@@ -1,0 +1,1804 @@
+{
+    "artists": [
+        {
+            "genre": "Electrónica",
+            "name": "David Guetta",
+            "description": "David Guetta (nacido el 7 de noviembre de 1967 en París, Francia) es un reconocido DJ, productor y compositor francés, famoso por su influencia en la música electrónica de baile. Comenzó su carrera a principios de los años 90, pero fue en 2009 cuando alcanzó la fama internacional con su álbum One Love, que incluyó éxitos como “When Love Takes Over”. Guetta ha sido pionero en la fusión de la música house con otros géneros como el pop y el electro, lo que le ha permitido alcanzar una audiencia global y colaborar con artistas de renombre como Rihanna, Sia, Usher y Nicki Minaj. A lo largo de su carrera, ha ganado múltiples premios, incluidos dos premios Grammy. Es considerado uno de los DJs más influyentes del mundo y ha sido un referente en el ámbito de la música dance. Además de su trabajo en solitario, Guetta ha creado una serie de remixes para otros artistas y ha trabajado como productor en varios álbumes.",
+            "image": "/images/artists/electronica/david-guetta/image.png",
+            "alt_image": "Imagen de el artista David Guetta",
+            "link": "david-guetta",
+            "curious_facts": [
+                {
+                    "title": "Primer DJ en ganar un Grammy",
+                    "description": "David Guetta hizo historia al ser el primer DJ en recibir un Grammy en la categoría de Mejor Grabación de Dance, lo que consolidó su influencia en la música electrónica a nivel mundial."
+                },
+                {
+                    "title": "Liderazgo en el Top 100 de DJ Mag",
+                    "description": "Durante varios años, Guetta ha sido votado como el DJ número uno del mundo en la famosa lista DJ Mag Top 100, un reconocimiento que refleja su popularidad y éxito en la escena internacional."
+                },
+                {
+                    "title": "Comienzos humildes",
+                    "description": "Aunque hoy es una estrella mundial, Guetta comenzó su carrera a finales de los 80 trabajando en clubes de París, donde se inspiró en el house y el electro, géneros que marcarían su carrera como productor."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Titanium (feat. Sia)",
+                    "audio": "/audio/electronica/david-guetta/Titanium (feat. Sia).mp3",
+                    "album": "/images/artists/electronica/david-guetta/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Play Hard (feat. Ne-Yo & Akon)",
+                    "audio": "/audio/electronica/david-guetta/Play Hard (feat. Ne-Yo & Akon).mp3",
+                    "album": "/images/artists/electronica/david-guetta/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Without You (feat. Usher)",
+                    "audio": "/audio/electronica/david-guetta/Without You (feat. Usher).mp3",
+                    "album": "/images/artists/electronica/david-guetta/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Sexy Bitch (feat. Akon)",
+                    "audio": "/audio/electronica/david-guetta/Sexy Bitch (feat. Akon).mp3",
+                    "album": "/images/artists/electronica/david-guetta/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Memories (feat. Kid Cudi)",
+                    "audio": "/audio/electronica/david-guetta/Memories (feat. Kid Cudi).mp3",
+                    "album": "/images/artists/electronica/david-guetta/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "When Love Takes Over (feat. Kelly Rowland)",
+                    "audio": "/audio/electronica/david-guetta/When Love Takes Over (feat. Kelly Rowland).mp3",
+                    "album": "/images/artists/electronica/david-guetta/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Electrónica",
+            "name": "Avicii",
+            "description": "Avicii (nombre real: Tim Bergling; nacido el 8 de septiembre de 1989 en Estocolmo, Suecia - fallecido el 20 de abril de 2018 en Muscat, Omán) fue uno de los DJs y productores más influyentes de la música electrónica. Su carrera despegó a los 18 años con su exitoso sencillo “Levels” en 2011, que rápidamente se convirtió en un himno en festivales y clubs de todo el mundo. Avicii se destacó por su habilidad para mezclar música electrónica con melodías pop y folk, creando una sonoridad única que lo llevó a colaborar con artistas como Madonna, Coldplay y Aloe Blacc. Durante su corta pero impactante carrera, Avicii recibió múltiples premios y nominaciones, y se convirtió en un referente dentro de la música dance. Aunque su vida fue truncada a los 28 años, dejó un legado musical significativo. A través de canciones como Wake Me Up y Hey Brother, Avicii revolucionó el panorama de la música electrónica, convirtiéndose en un símbolo de la escena EDM.",
+            "image": "/images/artists/electronica/avicii/image.jpg",
+            "alt_image": "Imagen de el artista Avicii",
+            "link": "avicii",
+            "curious_facts": [
+                {
+                    "title": "El significado de su nombre artístico",
+                    "description": "Avicii proviene de una palabra sánscrita que significa el nivel más bajo del infierno. Bergling la eligió porque le parecía única y memorable."
+                },
+                {
+                    "title": "Colaboración con Aloe Blacc",
+                    "description": "Su gran éxito Wake Me Up fue una colaboración con el cantante Aloe Blacc. La canción, que fusionó el estilo folk con la electrónica, alcanzó enormes éxitos comerciales en todo el mundo."
+                },
+                {
+                    "title": "Presión y retiro temporal",
+                    "description": "En 2016, Avicii anunció que se retiraba de los escenarios debido a la presión y el estrés relacionados con su estilo de vida como estrella del EDM. A pesar de ello, siguió trabajando en nueva música en su tiempo libre."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Addicted To You",
+                    "audio": "/audio/electronica/avicii/Addicted To You.mp3",
+                    "album": "/images/artists/electronica/avicii/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Wake Me Up",
+                    "audio": "/audio/electronica/avicii/Wake Me Up.mp3",
+                    "album": "/images/artists/electronica/avicii/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Hey Brother",
+                    "audio": "/audio/electronica/avicii/Hey Brother.mp3",
+                    "album": "/images/artists/electronica/avicii/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Levels",
+                    "audio": "/audio/electronica/avicii/Levels.mp3",
+                    "album": "/images/artists/electronica/avicii/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Waiting For Love",
+                    "audio": "/audio/electronica/avicii/Waiting For Love.mp3",
+                    "album": "/images/artists/electronica/avicii/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "The Nights",
+                    "audio": "/audio/electronica/avicii/The Nights.mp3",
+                    "album": "/images/artists/electronica/avicii/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Electrónica",
+            "name": "Calvin Harris",
+            "description": "Calvin Harris (nombre real: Adam Richard Wiles; nacido el 17 de enero de 1984 en Dumfries, Escocia) es uno de los DJ, productores y compositores más exitosos de la música electrónica y dance. Harris comenzó su carrera en la música a principios de los 2000, pero alcanzó el estrellato mundial con su álbum I Created Disco (2007). Su éxito se consolidó con el lanzamiento de su sencillo “I'm Not Alone” en 2009 y su álbum 18 Months (2012), que incluyó múltiples hits globales, como We Found Love con Rihanna y Feel So Close. A lo largo de su carrera, Harris ha logrado un impresionante equilibrio entre la música electrónica y el pop, trabajando con artistas como Dua Lipa, Katy Perry, Florence Welch y Rihanna. Calvin Harris ha sido uno de los DJs más altos en la lista Forbes de los artistas más ricos, lo que subraya su gran impacto en la industria de la música. Además de su faceta como DJ y productor, Harris también es conocido por su talento como compositor y cantante. Su estilo variado, que abarca desde el house y el electro-pop hasta el funk y el disco, lo ha convertido en una figura esencial en el mundo de la música moderna.",
+            "image": "/images/artists/electronica/calvin-harris/image.jpg",
+            "alt_image": "Imagen de el artista Calvin Harris",
+            "link": "calvin-harris",
+            "curious_facts": [
+                {
+                    "title": "Comienzo autodidacta",
+                    "description": "Harris empezó a hacer música a los 15 años y se convirtió en productor autodidacta, aprendiendo a usar software de producción musical por su cuenta antes de ser reconocido por su talento."
+                },
+                {
+                    "title": "Músico multiplataforma",
+                    "description": "Además de su éxito como DJ, Calvin Harris ha trabajado como compositor y productor para artistas como Kylie Minogue, Rihanna y Ne-Yo, lo que le ha dado un reconocimiento aún mayor en la industria musical."
+                },
+                {
+                    "title": "Récords de ventas y premios",
+                    "description": "A lo largo de su carrera, Harris ha conseguido varios premios, incluidos un Grammy y varios MTV Music Awards, y ha establecido récords de ventas tanto en la música electrónica como en el pop."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Blame (feat. John Newman)",
+                    "audio": "/audio/electronica/calvin-harris/Blame (feat. John Newman).mp3",
+                    "album": "/images/artists/electronica/calvin-harris/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Summer",
+                    "audio": "/audio/electronica/calvin-harris/Summer.mp3",
+                    "album": "/images/artists/electronica/calvin-harris/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "This Is What You Came For",
+                    "audio": "/audio/electronica/calvin-harris/This Is What You Came For.mp3",
+                    "album": "/images/artists/electronica/calvin-harris/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "One Kiss (with Dua Lipa)",
+                    "audio": "/audio/electronica/calvin-harris/One Kiss (with Dua Lipa).mp3",
+                    "album": "/images/artists/electronica/calvin-harris/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "We Found Love (feat. Rihanna)",
+                    "audio": "/audio/electronica/calvin-harris/We Found Love (feat. Rihanna).mp3",
+                    "album": "/images/artists/electronica/calvin-harris/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Feel So Close",
+                    "audio": "/audio/electronica/calvin-harris/Feel So Close.mp3",
+                    "album": "/images/artists/electronica/calvin-harris/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Electrónica",
+            "name": "Martin Garrix",
+            "description": "Martin Garrix (nombre real: Martijn Gerard Garritsen; nacido el 14 de mayo de 1996 en Amstelveen, Países Bajos) es un DJ y productor de música electrónica que se ha ganado un lugar destacado en la escena mundial de la música dance. Garrix comenzó a crear música a una edad temprana y se hizo conocido a los 17 años cuando lanzó su exitoso sencillo “Animals” en 2013, que rápidamente se convirtió en un himno en los principales festivales de música electrónica. Su estilo abarca géneros como el progressive house, big room house y future house, y ha colaborado con artistas de renombre como Usher, Bebe Rexha y Dua Lipa. Garrix ha sido considerado uno de los DJs más jóvenes y exitosos del mundo, alcanzando el puesto número 1 en la lista DJ Mag Top 100 durante varios años consecutivos. Su habilidad para crear himnos electrónicos con gran energía y sus espectáculos en vivo lo han consolidado como uno de los artistas más influyentes de la música dance moderna.",
+            "image": "/images/artists/electronica/martin-garrix/image.jpg",
+            "alt_image": "Imagen de el artista Martin Garrix",
+            "link": "martin-garrix",
+            "curious_facts": [
+                {
+                    "title": "Comienzo temprano en la música",
+                    "description": "Martin Garrix mostró interés por la música electrónica a los 8 años, y a los 14 ya estaba produciendo sus primeras canciones, influenciado por artistas como Tiësto y Armin van Buuren."
+                },
+                {
+                    "title": "Colaboración con Usher",
+                    "description": "Su éxito internacional “Don’t Look Down” con Usher fue un gran hito en su carrera, fusionando el estilo de Garrix con el toque vocal de Usher, lo que le permitió conquistar una audiencia más amplia."
+                },
+                {
+                    "title": "La creación de “Animals”",
+                    "description": "Garrix compuso “Animals” cuando tenía solo 16 años, y fue un éxito inmediato, alcanzando las primeras posiciones en las listas de música electrónica y consolidando su carrera de manera explosiva."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Animals",
+                    "audio": "/audio/electronica/martin-garrix/Animals.mp3",
+                    "album": "/images/artists/electronica/martin-garrix/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "High On Life (feat. Bonn)",
+                    "audio": "/audio/electronica/martin-garrix/High On Life (feat. Bonn).mp3",
+                    "album": "/images/artists/electronica/martin-garrix/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Don't Look Down (feat. Usher)",
+                    "audio": "/audio/electronica/martin-garrix/Don't Look Down (feat. Usher).mp3",
+                    "album": "/images/artists/electronica/martin-garrix/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "In the Name of Love",
+                    "audio": "/audio/electronica/martin-garrix/In the Name of Love.mp3",
+                    "album": "/images/artists/electronica/martin-garrix/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Told You So",
+                    "audio": "/audio/electronica/martin-garrix/Told You So.mp3",
+                    "album": "/images/artists/electronica/martin-garrix/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Scared to Be Lonely",
+                    "audio": "/audio/electronica/martin-garrix/Scared to Be Lonely.mp3",
+                    "album": "/images/artists/electronica/martin-garrix/albums/6.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Electrónica",
+            "name": "Tiësto",
+            "description": "Tijs Michiel Verwest, conocido como “Tiësto”, nació el 17 de enero de 1969 en Breda, Países Bajos. Es uno de los DJs y productores más influyentes de la música electrónica, destacando en géneros como el trance, el house y el EDM. Su carrera comenzó en la escena underground en los años 90 con su sello Black Hole Recordings, donde lanzó su icónica serie In Search of Sunrise. Su álbum debut, In My Memory (2001), lo catapultó a la fama, con éxitos que definieron el sonido del trance. En 2004, hizo historia al convertirse en el primer DJ en tocar en vivo en la ceremonia de apertura de los Juegos Olímpicos de Atenas. A medida que la música electrónica evolucionaba, Tiësto adaptó su estilo, pasando del trance al progressive y big room house. Ha ganado múltiples premios, incluido un Grammy en 2015 por su remix de All Of Me de John Legend. Con una carrera de más de 30 años, sigue encabezando festivales como Tomorrowland, Ultra Music Festival y EDC, consolidándose como una leyenda viva de la música electrónica.",
+            "image": "/images/artists/electronica/tiesto/image.jpg",
+            "alt_image": "Imagen de el artista Tiesto",
+            "link": "tiesto",
+            "curious_facts": [
+                {
+                    "title": "El primer DJ olímpico",
+                    "description": "En 2004, Tiësto tocó en vivo en la apertura de los Juegos Olímpicos de Atenas, con un set de 90 minutos. Su presentación fue vista por más de 4 mil millones de personas alrededor del mundo."
+                },
+                {
+                    "title": "Casi se llama Da Joker",
+                    "description": "Antes de ser Tiësto, usó el alias “Da Joker” en sus primeras producciones de techno y hardcore. Decidió cambiarlo a “Tiësto” para tener una identidad única y fácil de recordar internacionalmente."
+                },
+                {
+                    "title": "Fundador de grandes talentos",
+                    "description": "Tiësto ayudó a impulsar la carrera de DJs como Hardwell, Martin Garrix y Afrojack. Su influencia y apoyo en la industria han sido clave para que nuevas generaciones de artistas alcancen el éxito mundial."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Red Lights",
+                    "audio": "/audio/electronica/tiesto/Red Lights.mp3",
+                    "album": "/images/artists/electronica/tiesto/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Wasted",
+                    "audio": "/audio/electronica/tiesto/Wasted.mp3",
+                    "album": "/images/artists/electronica/tiesto/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "The Business",
+                    "audio": "/audio/electronica/tiesto/The Business.mp3",
+                    "album": "/images/artists/electronica/tiesto/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "The Motto",
+                    "audio": "/audio/electronica/tiesto/The Motto.mp3",
+                    "album": "/images/artists/electronica/tiesto/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Don't Be Shy",
+                    "audio": "/audio/electronica/tiesto/Don't Be Shy.mp3",
+                    "album": "/images/artists/electronica/tiesto/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Secrets",
+                    "audio": "/audio/electronica/tiesto/Secrets.mp3",
+                    "album": "/images/artists/electronica/tiesto/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Pop",
+            "name": "Michael Jackson",
+            "description": "Michael Joseph Jackson nació el 29 de agosto de 1958 en Gary, Indiana, EE. UU. Conocido como el “Rey del Pop”, es considerado uno de los artistas más influyentes de la historia de la música. Su carrera comenzó en los años 60 como parte de The Jackson 5, grupo con el que alcanzó la fama desde muy joven. En 1979 lanzó Off the Wall, su primer gran éxito como solista, pero fue con Thriller (1982) que se convirtió en una superestrella global. Este álbum es el más vendido de la historia y revolucionó la industria con éxitos como Billie Jean, Beat It y Thriller. Sus innovadoras coreografías, especialmente el moonwalk, marcaron un antes y un después en la música pop. A lo largo de su carrera, Jackson ganó 13 premios Grammy y rompió múltiples récords de ventas. Sin embargo, su vida personal estuvo rodeada de controversias y problemas legales. Falleció el 25 de junio de 2009 debido a una sobredosis de medicamentos, dejando un legado imborrable en la música y la cultura pop.",
+            "image": "/images/artists/pop/michael-jackson/image.jpg",
+            "alt_image": "Imagen de el artista Michael Jackson",
+            "link": "michael-jackson",
+            "curious_facts": [
+                {
+                    "title": "El artista más premiado de la historia",
+                    "description": "Michael Jackson posee más de 800 premios, incluyendo 13 Grammys y 26 American Music Awards. Su impacto en la música y la cultura pop sigue siendo incomparable en la industria."
+                },
+                {
+                    "title": "Su icónico moonwalk no fue inventado por él",
+                    "description": "Aunque popularizó el moonwalk en 1983, este movimiento ya existía en el breakdance. Sin embargo, Michael lo perfeccionó y lo convirtió en un símbolo de su estilo de baile."
+                },
+                {
+                    "title": "Thriller tiene un récord imbatible",
+                    "description": "Thriller es el álbum más vendido de todos los tiempos, con más de 70 millones de copias. Su videoclip innovador fue el primero de un artista negro en emitirse en MTV."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Billie Jean",
+                    "audio": "/audio/pop/michael-jackson/Billie Jean.mp3",
+                    "album": "/images/artists/pop/michael-jackson/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Beat It",
+                    "audio": "/audio/pop/michael-jackson/Beat It.mp3",
+                    "album": "/images/artists/pop/michael-jackson/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Thriller",
+                    "audio": "/audio/pop/michael-jackson/Thriller.mp3",
+                    "album": "/images/artists/pop/michael-jackson/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Smooth Criminal",
+                    "audio": "/audio/pop/michael-jackson/Smooth Criminal.mp3",
+                    "album": "/images/artists/pop/michael-jackson/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Chicago",
+                    "audio": "/audio/pop/michael-jackson/Chicago.mp3",
+                    "album": "/images/artists/pop/michael-jackson/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Remember the Time",
+                    "audio": "/audio/pop/michael-jackson/Remember the Time.mp3",
+                    "album": "/images/artists/pop/michael-jackson/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Pop",
+            "name": "Billie Eilish",
+            "description": "Billie Eilish Pirate Baird O’Connell nació el 18 de diciembre de 2001 en Los Ángeles, California, EE. UU. Es una cantante, compositora y productora que revolucionó la industria musical con su estilo oscuro y melancólico. Criada en una familia de artistas, comenzó a escribir y producir música junto a su hermano Finneas O’Connell, quien ha sido clave en su carrera. Saltó a la fama en 2015 con Ocean Eyes, una canción que se volvió viral en SoundCloud. En 2019, lanzó su álbum debut When We All Fall Asleep, Where Do We Go?, que incluyó éxitos como Bad Guy y la convirtió en una estrella global. Ese mismo año, se convirtió en la artista más joven en ganar los cuatro premios principales de los Grammy en una misma noche. En 2021, interpretó No Time to Die para la película de James Bond, ganando un Oscar y un Grammy. Con su estilo único y autenticidad, Billie sigue redefiniendo la música pop y alternativa, convirtiéndose en una de las voces más influyentes de su generación.",
+            "image": "/images/artists/pop/billie-eilish/image.jpg",
+            "alt_image": "Imagen de la artista Billie Eilish",
+            "link": "billie-eilish",
+            "curious_facts": [
+                {
+                    "title": "La artista más joven en ganar los cuatro Grammy principales",
+                    "description": "En 2020, Billie Eilish se convirtió en la persona más joven en la historia en ganar Álbum del Año, Canción del Año, Grabación del Año y Mejor Artista Nuevo en la misma ceremonia."
+                },
+                {
+                    "title": "Sin redes sociales",
+                    "description": "Billie eliminó sus redes sociales en 2023 porque le afectaban emocionalmente. Decidió distanciarse de los comentarios negativos y centrarse en su música sin la presión de las opiniones externas."
+                },
+                {
+                    "title": "Canta para James Bond",
+                    "description": "En 2021, interpretó No Time to Die, convirtiéndose en la artista más joven en grabar un tema oficial para una película de James Bond. La canción ganó un Oscar y un Grammy."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "bad guy",
+                    "audio": "/audio/pop/billie-eilish/bad guy.mp3",
+                    "album": "/images/artists/pop/billie-eilish/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "i love you",
+                    "audio": "/audio/pop/billie-eilish/i love you.mp3",
+                    "album": "/images/artists/pop/billie-eilish/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "ocean eyes",
+                    "audio": "/audio/pop/billie-eilish/ocean eyes.mp3",
+                    "album": "/images/artists/pop/billie-eilish/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "lovely (with Khalid)",
+                    "audio": "/audio/pop/billie-eilish/lovely (with Khalid).mp3",
+                    "album": "/images/artists/pop/billie-eilish/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "CHIHIRO",
+                    "audio": "/audio/pop/billie-eilish/CHIHIRO.mp3",
+                    "album": "/images/artists/pop/billie-eilish/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "BIRDS OF A FEATHER",
+                    "audio": "/audio/pop/billie-eilish/BIRDS OF A FEATHER.mp3",
+                    "album": "/images/artists/pop/billie-eilish/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Pop",
+            "name": "Taylor Swift",
+            "description": "Taylor Alison Swift nació el 13 de diciembre de 1989 en Reading, Pensilvania, EE. UU. Es una cantante, compositora y productora que ha dominado la industria musical con su talento y versatilidad. Desde pequeña, mostró interés por la música country y, a los 14 años, se mudó a Nashville para perseguir su sueño. En 2006, lanzó su álbum debut Taylor Swift, el cual la estableció como una estrella emergente del country. Con el tiempo, evolucionó hacia el pop con discos como 1989 (2014), que incluía éxitos como Shake It Off. Su capacidad para reinventarse se consolidó con Reputation (2017) y Folklore (2020), este último ganador del Grammy a Álbum del Año. Swift ha roto múltiples récords, es la artista femenina con más álbumes número uno en la historia de Billboard 200 y ha ganado 14 premios Grammy. Con su gira The Eras Tour, se convirtió en la artista con la gira más taquillera de todos los tiempos. Su impacto en la música y la cultura la ha convertido en una de las artistas más influyentes del siglo XXI.",
+            "image": "/images/artists/pop/taylor-swift/image.jpg",
+            "alt_image": "Imagen de la artista Taylor Swift",
+            "link": "taylor-swift",
+            "curious_facts": [
+                {
+                    "title": "La artista con más premios Grammy a Álbum del Año",
+                    "description": "En 2024, Taylor Swift hizo historia al convertirse en la primera artista en ganar cuatro veces el premio Grammy a Álbum del Año, superando a leyendas como Frank Sinatra y Stevie Wonder."
+                },
+                {
+                    "title": "Su amor por los mensajes ocultos",
+                    "description": "Taylor es conocida por dejar pistas secretas en sus letras, videoclips y publicaciones. Sus fans han desarrollado una cultura de descifrar “easter eggs” para anticipar sus próximos lanzamientos."
+                },
+                {
+                    "title": "The Eras Tour rompió récords",
+                    "description": "Su gira The Eras Tour se convirtió en la gira más taquillera de la historia, superando los mil millones de dólares en ventas. Además, su película del concierto fue un éxito en taquilla a nivel mundial."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Shake It Off",
+                    "audio": "/audio/pop/taylor-swift/Shake It Off.mp3",
+                    "album": "/images/artists/pop/taylor-swift/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Blank Space",
+                    "audio": "/audio/pop/taylor-swift/Blank Space.mp3",
+                    "album": "/images/artists/pop/taylor-swift/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Anti-Hero",
+                    "audio": "/audio/pop/taylor-swift/Anti-Hero.mp3",
+                    "album": "/images/artists/pop/taylor-swift/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Enchanted",
+                    "audio": "/audio/pop/taylor-swift/Enchanted.mp3",
+                    "album": "/images/artists/pop/taylor-swift/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "You Belong With Me",
+                    "audio": "/audio/pop/taylor-swift/You Belong With Me.mp3",
+                    "album": "/images/artists/pop/taylor-swift/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Cruel Summer",
+                    "audio": "/audio/pop/taylor-swift/Cruel Summer.mp3",
+                    "album": "/images/artists/pop/taylor-swift/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Pop",
+            "name": "Bruno Mars",
+            "description": "Peter Gene Hernandez, conocido artísticamente como Bruno Mars, nació el 8 de octubre de 1985 en Honolulu, Hawái, EE. UU. Es un cantante, compositor, productor y multiinstrumentista reconocido por su increíble versatilidad musical. Creció en una familia de músicos y desde niño imitaba a Elvis Presley y Michael Jackson, lo que desarrolló su talento para el escenario. En 2010, alcanzó la fama mundial con su álbum debut Doo-Wops & Hooligans, que incluyó éxitos como Just the Way You Are y Grenade. Con el tiempo, evolucionó hacia un sonido más funk y R&B, consolidándose con Unorthodox Jukebox (2012) y 24K Magic (2016), álbum que le valió seis premios Grammy, incluyendo Álbum del Año. Además de su carrera en solitario, ha trabajado con artistas como Mark Ronson en el icónico Uptown Funk y en 2021 formó el dúo Silk Sonic junto a Anderson .Paak, con el que ganó más Grammys. Con una voz inconfundible, carisma y talento escénico, Bruno Mars es considerado uno de los artistas más completos y exitosos de su generación.",
+            "image": "/images/artists/pop/bruno-mars/image.jpg",
+            "alt_image": "Imagen de el artista Bruno Mars",
+            "link": "bruno-mars",
+            "curious_facts": [
+                {
+                    "title": "Su nombre artístico tiene una historia especial",
+                    "description": "Su apodo “Bruno” viene de su parecido con el luchador Bruno Sammartino, según su padre. El “Mars” lo agregó porque muchas chicas decían que era “de otro planeta”."
+                },
+                {
+                    "title": "Casi abandona la música",
+                    "description": "Antes de ser famoso, Bruno Mars sufrió varios rechazos en la industria. Llegó a considerar dejar la música, pero su perseverancia lo llevó a escribir éxitos para otros artistas y luego lanzar su propia carrera."
+                },
+                {
+                    "title": "Ha vendido más de 200 millones de discos",
+                    "description": "Bruno Mars es uno de los artistas más vendidos de todos los tiempos, con más de 200 millones de discos vendidos a nivel mundial y múltiples récords en las listas de Billboard."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Just the Way You Are",
+                    "audio": "/audio/pop/bruno-mars/Just the Way You Are.mp3",
+                    "album": "/images/artists/pop/bruno-mars/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Talking to the Moon",
+                    "audio": "/audio/pop/bruno-mars/Talking to the Moon.mp3",
+                    "album": "/images/artists/pop/bruno-mars/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Locked out of Heaven",
+                    "audio": "/audio/pop/bruno-mars/Locked out of Heaven.mp3",
+                    "album": "/images/artists/pop/bruno-mars/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Wake Up in the Sky",
+                    "audio": "/audio/pop/bruno-mars/Wake Up in the Sky.mp3",
+                    "album": "/images/artists/pop/bruno-mars/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Die With A Smile",
+                    "audio": "/audio/pop/bruno-mars/Die With A Smile - Lady Gaga.mp3",
+                    "album": "/images/artists/pop/bruno-mars/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "APT.",
+                    "audio": "/audio/pop/bruno-mars/APT. - ROSÉ.mp3",
+                    "album": "/images/artists/pop/bruno-mars/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Pop",
+            "name": "Pitbull",
+            "description": "Armando Christian Pérez, conocido como Pitbull, nació el 15 de enero de 1981 en Miami, Florida, EE. UU. Es un rapero, cantante, compositor y productor musical de origen cubano. Desde joven, mostró interés por la música y fue influenciado por el reggaetón, el hip-hop y la música latina. Su carrera despegó en 2004 con su álbum debut M.I.A.M.I., producido por Lil Jon, donde fusionó el crunk con ritmos latinos. Sin embargo, fue con Planet Pit (2011) que alcanzó el estrellato internacional, gracias a éxitos como Give Me Everything y Rain Over Me. Su estilo se caracteriza por la mezcla de dance, pop y ritmos latinos, lo que lo ha convertido en uno de los artistas más versátiles de la industria. Pitbull ha colaborado con grandes estrellas como Jennifer Lopez, Shakira y Enrique Iglesias. Además, ha sido reconocido por su impacto en la música con múltiples premios Billboard y Latin Grammy. Su apodo “Mr. Worldwide” refleja su éxito global y su compromiso de llevar la música latina a todos los rincones del mundo.",
+            "image": "/images/artists/pop/pitbull/image.jpg",
+            "alt_image": "Imagen de el artista Pitbull",
+            "link": "pitbull",
+            "curious_facts": [
+                {
+                    "title": "Su nombre artístico tiene un significado especial",
+                    "description": "Eligió el nombre Pitbull porque los perros de esta raza “nunca se rinden y son luchadores”, lo que refleja su actitud perseverante dentro de la industria musical."
+                },
+                {
+                    "title": "Un experto en colaboraciones",
+                    "description": "Pitbull ha trabajado con más de 200 artistas a lo largo de su carrera, consolidándose como uno de los músicos con más colaboraciones exitosas en la historia del pop y el reggaetón."
+                },
+                {
+                    "title": "Cantó el himno del Mundial 2014",
+                    "description": "En 2014, Pitbull interpretó junto a Jennifer Lopez y Claudia Leitte la canción oficial del Mundial de Fútbol de Brasil, We Are One (Ole Ola), llevando su música a una audiencia global."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Give Me Everything",
+                    "audio": "/audio/pop/pitbull/Give Me Everything (feat. Nayer).mp3",
+                    "album": "/images/artists/pop/pitbull/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Rain Over Me",
+                    "audio": "/audio/pop/pitbull/Rain Over Me (feat. Marc Anthony).mp3",
+                    "album": "/images/artists/pop/pitbull/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Feel This Moment",
+                    "audio": "/audio/pop/pitbull/Feel This Moment (feat. Christina Aguilera).mp3",
+                    "album": "/images/artists/pop/pitbull/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Timber",
+                    "audio": "/audio/pop/pitbull/Timber.mp3",
+                    "album": "/images/artists/pop/pitbull/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "I Know You Want Me",
+                    "audio": "/audio/pop/pitbull/I Know You Want Me (Calle Ocho).mp3",
+                    "album": "/images/artists/pop/pitbull/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "El Taxi",
+                    "audio": "/audio/pop/pitbull/El Taxi.mp3",
+                    "album": "/images/artists/pop/pitbull/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "K-Pop",
+            "name": "BTS",
+            "description": "BTS (Bangtan Sonyeondan), también conocido como Bangtan Boys, es un grupo surcoreano de K-pop formado en 2013 por Big Hit Entertainment. La agrupación está compuesta por RM, Jin, Suga, J-Hope, Jimin, V y Jungkook. Su música abarca géneros como pop, hip-hop y R&B, y sus letras suelen abordar temas de juventud, salud mental y amor propio. Debutaron el 13 de junio de 2013 con No More Dream, pero su fama internacional llegó en 2017 con DNA, convirtiéndose en el primer grupo de K-pop en presentarse en los American Music Awards (AMAs). Con álbumes como Love Yourself: Tear y Map of the Soul: 7, BTS rompió récords en las listas de Billboard. En 2020, su sencillo Dynamite hizo historia al debutar en el #1 del Billboard Hot 100, siendo la primera canción de un grupo surcoreano en lograrlo. Han ganado múltiples premios Billboard, AMAs y nominaciones al Grammy. Actualmente, los miembros cumplen con su servicio militar obligatorio, pero su impacto global sigue creciendo, consolidándolos como uno de los grupos más influyentes de la música.",
+            "image": "/images/artists/kpop/bts/image.jpg",
+            "alt_image": "Imagen del grupo BTS",
+            "link": "bts",
+            "curious_facts": [
+                {
+                    "title": "El primer grupo de K-pop en los Grammy",
+                    "description": "En 2021, BTS se convirtió en la primera banda surcoreana en ser nominada a los Grammy con Dynamite, consolidando su presencia en la industria musical internacional."
+                },
+                {
+                    "title": "Embajadores de la ONU",
+                    "description": "BTS ha dado discursos en la ONU y colaborado con UNICEF en la campaña Love Myself, promoviendo el amor propio y la lucha contra la violencia infantil."
+                },
+                {
+                    "title": "Récords en redes sociales",
+                    "description": "BTS tiene el récord Guinness por ser el grupo musical con más interacción en Twitter y YouTube, acumulando millones de seguidores y vistas en tiempo récord."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Dynamite",
+                    "audio": "/audio/kpop/bts/Dynamite.mp3",
+                    "album": "/images/artists/kpop/bts/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Butter",
+                    "audio": "/audio/kpop/bts/Butter.mp3",
+                    "album": "/images/artists/kpop/bts/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Boy With Luv (feat. Halsey)",
+                    "audio": "/audio/kpop/bts/Boy With Luv (feat. Halsey).mp3",
+                    "album": "/images/artists/kpop/bts/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "HOME",
+                    "audio": "/audio/kpop/bts/HOME.mp3",
+                    "album": "/images/artists/kpop/bts/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "DNA",
+                    "audio": "/audio/kpop/bts/DNA.mp3",
+                    "album": "/images/artists/kpop/bts/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "FAKE LOVE",
+                    "audio": "/audio/kpop/bts/FAKE LOVE.mp3",
+                    "album": "/images/artists/kpop/bts/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "K-Pop",
+            "name": "TWICE",
+            "description": "TWICE es un grupo femenino de K-pop formado por JYP Entertainment en 2015 a través del programa de supervivencia Sixteen. Está compuesto por nueve integrantes: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung y Tzuyu. Su debut oficial fue el 20 de octubre de 2015 con la canción Like OOH-AHH, que rápidamente las convirtió en una de las girl groups más populares de Corea del Sur. En 2016, TWICE alcanzó el éxito masivo con Cheer Up, que ganó múltiples premios y se convirtió en un himno del K-pop. Con su concepto brillante y enérgico, el grupo se consolidó con éxitos como TT, Likey y What Is Love?. Su impacto se expandió a nivel global, destacándose en el mercado japonés y, más tarde, en el estadounidense con su primer álbum en inglés. TWICE es una de las grupos femeninos más exitosos de K-pop, con múltiples premios y récords en ventas, además de haber realizado giras mundiales en estadios. Su música sigue evolucionando, explorando nuevos géneros y consolidando su estatus como líderes del pop asiático.",
+            "image": "/images/artists/kpop/twice/image.jpg",
+            "alt_image": "Imagen del grupo TWICE",
+            "link": "twice",
+            "curious_facts": [
+                {
+                    "title": "El poder del ‘TT’",
+                    "description": "Su canción TT popularizó un gesto de manos en forma de lágrimas, que se volvió viral en todo el mundo y fue usado en memes, comerciales y hasta en videojuegos."
+                },
+                {
+                    "title": "Primer grupo femenino en un estadio de EE.UU.",
+                    "description": "En 2022, TWICE se convirtió en el primer grupo femenino de K-pop en llenar un estadio en EE.UU., logrando un récord en ventas de boletos para su gira mundial."
+                },
+                {
+                    "title": "Su éxito en Japón",
+                    "description": "TWICE ha dominado el mercado japonés desde su debut allí en 2017, convirtiéndose en uno de los grupos de K-pop más vendidos en la historia de Japón, superando los 10 millones de discos."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "TT",
+                    "audio": "/audio/kpop/twice/TT.mp3",
+                    "album": "/images/artists/kpop/twice/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Knock Knock",
+                    "audio": "/audio/kpop/twice/Knock Knock.mp3",
+                    "album": "/images/artists/kpop/twice/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "CHEER UP",
+                    "audio": "/audio/kpop/twice/CHEER UP.mp3",
+                    "album": "/images/artists/kpop/twice/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "What is Love",
+                    "audio": "/audio/kpop/twice/What is Love.mp3",
+                    "album": "/images/artists/kpop/twice/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Likey",
+                    "audio": "/audio/kpop/twice/Likey.mp3",
+                    "album": "/images/artists/kpop/twice/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "SIGNAL",
+                    "audio": "/audio/kpop/twice/SIGNAL.mp3",
+                    "album": "/images/artists/kpop/twice/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "K-Pop",
+            "name": "GOT7",
+            "description": "GOT7 es un grupo masculino de K-pop formado por JYP Entertainment en 2014. La agrupación está compuesta por JB, Mark, Jackson, Jinyoung, Youngjae, BamBam y Yugyeom. Su estilo musical mezcla hip-hop, R&B y pop, con una fuerte presencia de acrobacias y coreografías dinámicas. Debutaron el 16 de enero de 2014 con el miniálbum Got It?, logrando gran reconocimiento con la canción Girls Girls Girls. A lo largo de los años, lanzaron múltiples éxitos como Just Right, If You Do y Lullaby, consolidándose como uno de los grupos más populares de la segunda generación del K-pop. En 2021, tras el fin de su contrato con JYP Entertainment, los integrantes decidieron no renovar, pero aseguraron a sus fans que GOT7 no se disolvería. En 2022, sorprendieron con un regreso independiente y el lanzamiento de un nuevo EP. Con su enfoque global y un fuerte vínculo con su fandom, Ahgase, GOT7 sigue siendo uno de los grupos más influyentes del K-pop.",
+            "image": "/images/artists/kpop/got7/image.jpg",
+            "alt_image": "Imagen del grupo GOT7",
+            "link": "got7",
+            "curious_facts": [
+                {
+                    "title": "Un grupo con talento multilingüe",
+                    "description": "GOT7 es uno de los pocos grupos de K-pop con integrantes de diferentes países, como Jackson (Hong Kong), Mark (EE.UU.) y BamBam (Tailandia), lo que les ha permitido conectar con un público internacional."
+                },
+                {
+                    "title": "Pioneros en el concepto de artes marciales en el K-pop",
+                    "description": "Desde su debut, GOT7 incorporó trucos acrobáticos y movimientos de artes marciales en sus coreografías, algo innovador en la industria del K-pop en ese momento."
+                },
+                {
+                    "title": "Cada miembro ha tenido éxito en solitario",
+                    "description": "Tras dejar JYP Entertainment, todos los integrantes han seguido carreras individuales en música, actuación y entretenimiento, demostrando su versatilidad y talento."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "If You Do",
+                    "audio": "/audio/kpop/got7/If You Do.mp3",
+                    "album": "/images/artists/kpop/got7/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Hard Carry",
+                    "audio": "/audio/kpop/got7/Hard Carry.mp3",
+                    "album": "/images/artists/kpop/got7/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Just Right",
+                    "audio": "/audio/kpop/got7/Just Right.mp3",
+                    "album": "/images/artists/kpop/got7/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "A",
+                    "audio": "/audio/kpop/got7/A.mp3",
+                    "album": "/images/artists/kpop/got7/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Never Ever",
+                    "audio": "/audio/kpop/got7/Never Ever.mp3",
+                    "album": "/images/artists/kpop/got7/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Lullaby",
+                    "audio": "/audio/kpop/got7/Lullaby.mp3",
+                    "album": "/images/artists/kpop/got7/albums/6.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "K-Pop",
+            "name": "AESPA",
+            "description": "aespa es un grupo femenino de K-pop formado por SM Entertainment en 2020. Está compuesto por Karina, Giselle, Winter y Ningning. Su concepto único combina realidad y mundo virtual, ya que cada integrante tiene un avatar digital en un universo paralelo llamado KWANGYA. Debutaron el 17 de noviembre de 2020 con Black Mamba, que batió récords como el MV debut de K-pop más rápido en alcanzar 100 millones de vistas. Su siguiente éxito, Next Level, se convirtió en un fenómeno viral, consolidando su estilo futurista y experimental. En 2021, lanzaron su primer miniálbum Savage, debutando en el #1 de las listas coreanas y en el Billboard 200, demostrando su impacto global. aespa ha sido reconocida con múltiples premios, incluyendo ❝Artista del Año❞ en los MAMA Awards y ha participado en eventos internacionales como el Coachella 2022. Con su estética innovadora y narrativa basada en inteligencia artificial, aespa se posiciona como una de las girl groups más vanguardistas del K-pop.",
+            "image": "/images/artists/kpop/aespa/image.jpg",
+            "alt_image": "Imagen del grupo AESPA",
+            "link": "aespa",
+            "curious_facts": [
+                {
+                    "title": "El significado de su nombre",
+                    "description": "aespa viene de la combinación de “avatar” y “experience”, reflejando su concepto único de fusionar el mundo real con lo digital a través de avatares."
+                },
+                {
+                    "title": "Primer grupo de K-pop en la ONU",
+                    "description": "En 2022, aespa habló en la Asamblea General de la ONU sobre el impacto de la tecnología en las nuevas generaciones, resaltando su enfoque futurista en la música."
+                },
+                {
+                    "title": "Un récord en ventas",
+                    "description": "Su miniálbum Girls (2022) vendió más de un millón de copias en su primera semana, convirtiéndose en uno de los álbumes de K-pop más vendidos por un grupo femenino."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Whiplash",
+                    "audio": "/audio/kpop/aespa/Whiplash.mp3",
+                    "album": "/images/artists/kpop/aespa/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Supernova",
+                    "audio": "/audio/kpop/aespa/Supernova.mp3",
+                    "album": "/images/artists/kpop/aespa/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Drama",
+                    "audio": "/audio/kpop/aespa/Drama.mp3",
+                    "album": "/images/artists/kpop/aespa/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Black Mamba",
+                    "audio": "/audio/kpop/aespa/Black Mamba.mp3",
+                    "album": "/images/artists/kpop/aespa/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Savage",
+                    "audio": "/audio/kpop/aespa/Savage.mp3",
+                    "album": "/images/artists/kpop/aespa/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Next Level",
+                    "audio": "/audio/kpop/aespa/Next Level.mp3",
+                    "album": "/images/artists/kpop/aespa/albums/6.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "K-Pop",
+            "name": "Stray Kids",
+            "description": "Stray Kids es un grupo masculino de K-pop formado por JYP Entertainment en 2017 a través del reality show del mismo nombre, Stray Kids. Está compuesto por Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin y I.N. Su música se caracteriza por una fuerte influencia del hip-hop, EDM y rock, con un enfoque en letras introspectivas y energía explosiva. Debutaron oficialmente el 25 de marzo de 2018 con el miniálbum I Am NOT y la canción District 9. Desde entonces, han alcanzado gran éxito con álbumes como GO LIVE (2020), NOEASY (2021) y MAXIDENT (2022). Su ascenso global se consolidó cuando ganaron Kingdom: Legendary War en 2021 y se convirtieron en el primer grupo de JYP en debutar en el #1 del Billboard 200 con ODDINARY. Stray Kids es conocido por su autoproducción, ya que su unidad creativa, 3RACHA (Bang Chan, Changbin y Han), compone y produce la mayoría de sus canciones. Su fandom, STAY, ha impulsado su éxito internacional, posicionándolos como uno de los grupos más innovadores de la actualidad.",
+            "image": "/images/artists/kpop/stray-kids/image.jpg",
+            "alt_image": "Imagen del grupo Stray Kids",
+            "link": "stray-kids",
+            "curious_facts": [
+                {
+                    "title": "Creadores de su propia música",
+                    "description": "Stray Kids se diferencia de muchos grupos de K-pop porque ellos mismos escriben y producen sus canciones, con Bang Chan liderando la producción musical junto a 3RACHA."
+                },
+                {
+                    "title": "Primer grupo de JYP en liderar Billboard 200",
+                    "description": "Con ODDINARY en 2022, se convirtieron en el primer grupo de JYP Entertainment en debutar en el #1 del Billboard 200, logrando reconocimiento mundial."
+                },
+                {
+                    "title": "Felix y su icónica voz",
+                    "description": "Felix es conocido por su voz extremadamente grave, que contrasta con su apariencia juvenil, y ha sido una de las características más distintivas de Stray Kids."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "God’s Menu",
+                    "audio": "/audio/kpop/stray-kids/God’s Menu.mp3",
+                    "album": "/images/artists/kpop/stray-kids/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Thunderous",
+                    "audio": "/audio/kpop/stray-kids/Thunderous.mp3",
+                    "album": "/images/artists/kpop/stray-kids/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Super Bowl",
+                    "audio": "/audio/kpop/stray-kids/Super Bowl.mp3",
+                    "album": "/images/artists/kpop/stray-kids/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "MANIAC",
+                    "audio": "/audio/kpop/stray-kids/MANIAC.mp3",
+                    "album": "/images/artists/kpop/stray-kids/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Back Door",
+                    "audio": "/audio/kpop/stray-kids/Back Door.mp3",
+                    "album": "/images/artists/kpop/stray-kids/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Hellevator",
+                    "audio": "/audio/kpop/stray-kids/Hellevator.mp3",
+                    "album": "/images/artists/kpop/stray-kids/albums/6.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rap",
+            "name": "Eminem",
+            "description": "Eminem, cuyo nombre real es Marshall Bruce Mathers III, nació el 17 de octubre de 1972 en St. Joseph, Missouri, EE.UU. Es considerado uno de los mejores raperos de todos los tiempos, con un estilo agresivo, letras provocadoras y una habilidad lírica excepcional. Criado en Detroit, tuvo una infancia difícil marcada por la pobreza y el bullying. Su carrera despegó en 1999 con The Slim Shady LP, que le valió su primer Grammy. Luego, con The Marshall Mathers LP (2000) y The Eminem Show (2002), se consolidó como una superestrella, con éxitos como Stan y Without Me. Eminem también incursionó en el cine con 8 Mile (2002), película inspirada en su vida, y ganó un Oscar por Lose Yourself. A lo largo de su carrera, ha vendido más de 220 millones de discos, convirtiéndose en uno de los artistas más vendidos de la historia. A pesar de luchas con la adicción y la controversia, su regreso con Recovery (2010) y álbumes posteriores ha demostrado su impacto duradero en la música. Su rapidez al rapear y su estilo único siguen siendo inigualables en la industria del hip-hop.",
+            "image": "/images/artists/rap/eminem/image.jpg",
+            "alt_image": "Imagen de el artista Eminem",
+            "link": "eminem",
+            "curious_facts": [
+                {
+                    "title": "El rapero más rápido del mundo",
+                    "description": "En Godzilla (2020), Eminem rompió récords al rapear 225 palabras en 30 segundos, lo que equivale a 7.5 palabras por segundo."
+                },
+                {
+                    "title": "Ganador del Oscar",
+                    "description": "Lose Yourself, canción de 8 Mile, se convirtió en la primera canción de rap en ganar un Oscar en 2003, dejando un legado en la historia del cine y la música."
+                },
+                {
+                    "title": "Su álbum más vendido",
+                    "description": "The Marshall Mathers LP (2000) vendió 1.78 millones de copias en su primera semana, siendo el álbum de rap más vendido en menos tiempo en EE.UU."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Superman",
+                    "audio": "/audio/rap/eminem/Superman.mp3",
+                    "album": "/images/artists/rap/eminem/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Without Me",
+                    "audio": "/audio/rap/eminem/Without Me.mp3",
+                    "album": "/images/artists/rap/eminem/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Mockingbird",
+                    "audio": "/audio/rap/eminem/Mockingbird.mp3",
+                    "album": "/images/artists/rap/eminem/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Love The Way You Lie",
+                    "audio": "/audio/rap/eminem/Love The Way You Lie.mp3",
+                    "album": "/images/artists/rap/eminem/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Rap God",
+                    "audio": "/audio/rap/eminem/Rap God.mp3",
+                    "album": "/images/artists/rap/eminem/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Godzilla (feat. Juice WRLD)",
+                    "audio": "/audio/rap/eminem/Godzilla (feat. Juice WRLD).mp3",
+                    "album": "/images/artists/rap/eminem/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rap",
+            "name": "Drake",
+            "description": "Drake, cuyo nombre real es Aubrey Drake Graham, nació el 24 de octubre de 1986 en Toronto, Canadá. Antes de convertirse en una superestrella del rap, actuó en la serie Degrassi: The Next Generation. Su incursión en la música comenzó con mixtapes independientes, pero su gran oportunidad llegó cuando Lil Wayne lo firmó con Young Money Entertainment en 2009. Su álbum debut, Thank Me Later (2010), debutó en el #1 del Billboard 200, y con Take Care (2011), consolidó su estilo introspectivo y emocional, ganando su primer Grammy. En la siguiente década, dominó la industria con álbumes como Nothing Was the Same (2013), Views (2016) y Scorpion (2018), con éxitos globales como Hotline Bling, God’s Plan y In My Feelings. Drake ha roto múltiples récords, incluyendo el artista con más canciones en el Billboard Hot 100 y el primer artista en superar los 50 mil millones de streams en Spotify. Con su sello OVO Sound, sigue siendo una de las figuras más influyentes en el hip-hop y el R&B, expandiendo su impacto en la moda y los negocios.",
+            "image": "/images/artists/rap/drake/image.jpg",
+            "alt_image": "Imagen de el artista Drake",
+            "link": "drake",
+            "curious_facts": [
+                {
+                    "title": "El artista con más hits en Billboard",
+                    "description": "Drake ha colocado más de 300 canciones en el Billboard Hot 100, superando a The Beatles y Michael Jackson en récords históricos."
+                },
+                {
+                    "title": "Un millonario antes de los 30",
+                    "description": "Gracias a su éxito en la música y sus inversiones, Drake se convirtió en multimillonario antes de cumplir 30 años, con negocios en moda, whisky y hasta deportes."
+                },
+                {
+                    "title": "Inspiración en Toronto",
+                    "description": "Drake popularizó el apodo The 6 para Toronto y ha ayudado a la ciudad a ganar reconocimiento mundial en la cultura pop. Incluso tiene un jet privado llamado Air Drake."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "One Dance",
+                    "audio": "/audio/rap/drake/One Dance.mp3",
+                    "album": "/images/artists/rap/drake/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Hotline Bling",
+                    "audio": "/audio/rap/drake/Hotline Bling.mp3",
+                    "album": "/images/artists/rap/drake/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "In My Feelings",
+                    "audio": "/audio/rap/drake/In My Feelings.mp3",
+                    "album": "/images/artists/rap/drake/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "God's Plan",
+                    "audio": "/audio/rap/drake/God's Plan.mp3",
+                    "album": "/images/artists/rap/drake/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Started From the Bottom",
+                    "audio": "/audio/rap/drake/Started From the Bottom.mp3",
+                    "album": "/images/artists/rap/drake/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Way 2 Sexy (with Future & Young Thug)",
+                    "audio": "/audio/rap/drake/Way 2 Sexy (with Future & Young Thug).mp3",
+                    "album": "/images/artists/rap/drake/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rap",
+            "name": "Snopp Dogg",
+            "description": "Snoop Dogg, cuyo nombre real es Calvin Cordozar Broadus Jr., nació el 20 de octubre de 1971 en Long Beach, California. Es una de las figuras más icónicas del hip-hop, conocido por su estilo relajado y su inconfundible voz. Fue descubierto por Dr. Dre a principios de los 90 y debutó en 1993 con el álbum Doggystyle, que incluyó éxitos como Gin and Juice y Who Am I? (What’s My Name?). Desde entonces, ha lanzado múltiples álbumes exitosos, reinventándose con cada década. Ha incursionado en diferentes géneros musicales, negocios y hasta en la actuación. Además, ha trabajado con artistas como Tupac, Pharrell, Eminem y Katy Perry, manteniéndose siempre relevante en la industria. Con más de 35 años de carrera, Snoop Dogg sigue siendo un referente del rap y la cultura pop. En 2022, compró Death Row Records, el sello donde inició su carrera, consolidando su legado en la industria musical. Su estilo relajado y su carisma lo han convertido en una de las figuras más queridas del entretenimiento.",
+            "image": "/images/artists/rap/snoop-dogg/image.jpg",
+            "alt_image": "Imagen de el artista Snopp Dogg",
+            "link": "snoop-dogg",
+            "curious_facts": [
+                {
+                    "title": "El rapero con más colaboraciones",
+                    "description": "Snoop Dogg ha trabajado con más de 2,000 artistas de diversos géneros, desde hip-hop hasta reggaetón y pop, lo que lo convierte en uno de los músicos más versátiles."
+                },
+                {
+                    "title": "Un empresario multifacético",
+                    "description": "Ha incursionado en negocios como su propia marca de marihuana, vinos y hasta una liga de fútbol juvenil para ayudar a niños en comunidades desfavorecidas."
+                },
+                {
+                    "title": "Cambio de nombre temporal",
+                    "description": "En 2012, Snoop Dogg adoptó el nombre Snoop Lion tras una visita a Jamaica, donde exploró la cultura rastafari y lanzó un álbum de reggae."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Young, Wild & Free (feat. Bruno Mars)",
+                    "audio": "/audio/rap/snoop-dogg/Young, Wild & Free (feat. Bruno Mars).mp3",
+                    "album": "/images/artists/rap/snoop-dogg/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Gin and Juice",
+                    "audio": "/audio/rap/snoop-dogg/Gin and Juice.mp3",
+                    "album": "/images/artists/rap/snoop-dogg/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Who Am I (What’s My Name)",
+                    "audio": "/audio/rap/snoop-dogg/Who Am I (What’s My Name).mp3",
+                    "album": "/images/artists/rap/snoop-dogg/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Nuthin' But A G Thang",
+                    "audio": "/audio/rap/snoop-dogg/Nuthin' But A G Thang.mp3",
+                    "album": "/images/artists/rap/snoop-dogg/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Drop It Like It's Hot",
+                    "audio": "/audio/rap/snoop-dogg/Drop It Like It's Hot.mp3",
+                    "album": "/images/artists/rap/snoop-dogg/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Beautiful",
+                    "audio": "/audio/rap/snoop-dogg/Beautiful.mp3",
+                    "album": "/images/artists/rap/snoop-dogg/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rap",
+            "name": "Kanye West",
+            "description": "Kanye West, ahora conocido legalmente como Ye, nació el 8 de junio de 1977 en Atlanta, Georgia, y creció en Chicago. Es un rapero, productor, diseñador y empresario que ha revolucionado la música hip-hop con su creatividad y audacia. Comenzó su carrera como productor en Roc-A-Fella Records, colaborando con artistas como Jay-Z. En 2004, lanzó su álbum debut The College Dropout, que fue un éxito inmediato. A lo largo de los años, ha experimentado con distintos sonidos, desde el soul y el autotune (808s & Heartbreak) hasta la innovación maximalista de My Beautiful Dark Twisted Fantasy (2010), considerado uno de los mejores álbumes de todos los tiempos. Kanye no solo ha influenciado el hip-hop, sino también la moda con su marca YEEZY, colaborando con Adidas y creando una de las líneas de zapatillas más vendidas. A pesar de la controversia que lo rodea, sigue siendo una figura influyente en la música y la cultura pop, con múltiples premios Grammy y récords de ventas.",
+            "image": "/images/artists/rap/kanye-west/image.jpg",
+            "alt_image": "Imagen de el artista Kanye West",
+            "link": "kanye-west",
+            "curious_facts": [
+                {
+                    "title": "El artista con más álbumes número uno en Billboard",
+                    "description": "Kanye ha conseguido 11 álbumes número uno en el Billboard 200, colocándolo entre los raperos con más éxitos en la historia."
+                },
+                {
+                    "title": "Un cambio de nombre oficial",
+                    "description": "En 2021, Kanye cambió su nombre legalmente a Ye, explicando que es la palabra más utilizada en la Biblia y representa su identidad."
+                },
+                {
+                    "title": "Un multimillonario del hip-hop",
+                    "description": "Gracias a su éxito en la música y la moda, Kanye alcanzó una fortuna de más de 1,800 millones de dólares, principalmente por su marca YEEZY."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Heartless",
+                    "audio": "/audio/rap/kanye-west/Heartless.mp3",
+                    "album": "/images/artists/rap/kanye-west/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Runaway",
+                    "audio": "/audio/rap/kanye-west/Runaway.mp3",
+                    "album": "/images/artists/rap/kanye-west/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Flashing Lights",
+                    "audio": "/audio/rap/kanye-west/Flashing Lights.mp3",
+                    "album": "/images/artists/rap/kanye-west/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "I Wonder",
+                    "audio": "/audio/rap/kanye-west/I Wonder.mp3",
+                    "album": "/images/artists/rap/kanye-west/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Bound 2",
+                    "audio": "/audio/rap/kanye-west/Bound 2.mp3",
+                    "album": "/images/artists/rap/kanye-west/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "On Sight",
+                    "audio": "/audio/rap/kanye-west/On Sight.mp3",
+                    "album": "/images/artists/rap/kanye-west/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rap",
+            "name": "Canserbero",
+            "description": "Canserbero, cuyo nombre real era Tirone José González Orama, nació el 11 de marzo de 1988 en Caracas, Venezuela. Es considerado uno de los mayores exponentes del rap en español, conocido por sus letras profundas, filosóficas y su estilo crudo y directo. Desde joven se interesó por la música y comenzó su carrera en el underground venezolano. Su primer álbum, Vida (2010), abordó temas como la lucha, la esperanza y la superación. Sin embargo, fue con Muerte (2012) que consolidó su legado, con canciones reflexivas sobre la sociedad, la violencia y la existencia humana. Temas como Es épico y C’est la mort se volvieron himnos del rap latinoamericano. Canserbero era conocido por su independencia artística, negándose a comercializar su música de manera convencional. Su trágica muerte el 20 de enero de 2015, en circunstancias aún debatidas, dejó una marca imborrable en la historia del rap. A pesar de su corta carrera, sigue siendo una referencia del hip-hop en español y su mensaje sigue vivo en millones de seguidores.",
+            "image": "/images/artists/rap/canserbero/image.jpg",
+            "alt_image": "Imagen de el artista Canserbero",
+            "link": "canserbero",
+            "curious_facts": [
+                {
+                    "title": "Rap consciente y sin censura",
+                    "description": "Canserbero se destacó por letras profundas sobre la muerte, la filosofía y la sociedad, convirtiéndose en un símbolo del rap consciente en español."
+                },
+                {
+                    "title": "Rechazó contratos con grandes disqueras",
+                    "description": "A pesar de su talento, Canserbero decidió mantenerse independiente, evitando la comercialización de su música y rechazando sellos discográficos."
+                },
+                {
+                    "title": "Una muerte misteriosa",
+                    "description": "Su fallecimiento en 2015 sigue generando dudas, ya que las versiones oficiales no han convencido a muchos de sus seguidores, quienes creen en diferentes teorías."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Es Épico",
+                    "audio": "/audio/rap/canserbero/Es Épico.mp3",
+                    "album": "/images/artists/rap/canserbero/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Maquiavélico",
+                    "audio": "/audio/rap/canserbero/Maquiavélico.mp3",
+                    "album": "/images/artists/rap/canserbero/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Ser Vero",
+                    "audio": "/audio/rap/canserbero/Ser Vero.mp3",
+                    "album": "/images/artists/rap/canserbero/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Jeremías 17-5",
+                    "audio": "/audio/rap/canserbero/Jeremías 17-5.mp3",
+                    "album": "/images/artists/rap/canserbero/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Querer Querernos",
+                    "audio": "/audio/rap/canserbero/Querer Querernos.mp3",
+                    "album": "/images/artists/rap/canserbero/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Stupid Love Story",
+                    "audio": "/audio/rap/canserbero/Stupid Love Story.mp3",
+                    "album": "/images/artists/rap/canserbero/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rock",
+            "name": "Queen",
+            "description": "Queen es una de las bandas de rock más icónicas de la historia, formada en Londres en 1970 por Freddie Mercury (voz y piano), Brian May (guitarra), Roger Taylor (batería) y John Deacon (bajo). Su estilo fusionó rock, ópera, pop y elementos progresivos, creando un sonido único. En 1973 lanzaron su álbum debut Queen, pero su verdadero salto a la fama llegó con Sheer Heart Attack (1974) y A Night at the Opera (1975), que incluyó Bohemian Rhapsody, una de las canciones más innovadoras y populares de todos los tiempos. Durante las décadas de 1970 y 1980, Queen dominó la industria con álbumes como News of the World (1977) y The Game (1980), con himnos como We Will Rock You y Another One Bites the Dust. La trágica muerte de Freddie Mercury en 1991, debido a complicaciones del SIDA, marcó el fin de una era. Sin embargo, la música de Queen sigue siendo influyente y atemporal, con Brian May y Roger Taylor continuando su legado junto a otros vocalistas.",
+            "image": "/images/artists/rock/queen/image.jpg",
+            "alt_image": "Imagen del grupo Queen",
+            "link": "queen",
+            "curious_facts": [
+                {
+                    "title": "El concierto más legendario",
+                    "description": "Su presentación en el Live Aid de 1985 es considerada una de las mejores actuaciones en vivo de la historia, demostrando el poder escénico de Freddie Mercury."
+                },
+                {
+                    "title": "Bohemian Rhapsody y su impacto",
+                    "description": "Cuando fue lanzada, la disquera no creía en el éxito de Bohemian Rhapsody, pero se convirtió en un fenómeno mundial y ha sido reconocida como una de las mejores canciones de la historia."
+                },
+                {
+                    "title": "Freddie Mercury, una voz inigualable",
+                    "description": "Estudios han demostrado que la voz de Freddie tenía una frecuencia y vibrato únicos, capaces de alcanzar notas imposibles para la mayoría de los cantantes."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Another One Bites The Dust",
+                    "audio": "/audio/rock/queen/Another One Bites The Dust.mp3",
+                    "album": "/images/artists/rock/queen/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Somebody To Love",
+                    "audio": "/audio/rock/queen/Somebody To Love.mp3",
+                    "album": "/images/artists/rock/queen/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "We Are The Champions",
+                    "audio": "/audio/rock/queen/We Are The Champions.mp3",
+                    "album": "/images/artists/rock/queen/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "We Will Rock You",
+                    "audio": "/audio/rock/queen/We Will Rock You.mp3",
+                    "album": "/images/artists/rock/queen/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Bohemian Rhapsody",
+                    "audio": "/audio/rock/queen/Bohemian Rhapsody.mp3",
+                    "album": "/images/artists/rock/queen/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Don't Stop Me Now",
+                    "audio": "/audio/rock/queen/Don't Stop Me Now.mp3",
+                    "album": "/images/artists/rock/queen/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rock",
+            "name": "The Beatles",
+            "description": "The Beatles fue una banda británica de rock formada en Liverpool en 1960 por John Lennon, Paul McCartney, George Harrison y Ringo Starr. Son considerados la banda más influyente de la historia de la música, revolucionando el rock y la cultura popular con su innovación y creatividad. Su éxito mundial comenzó en 1963 con Please Please Me y la explosión de la Beatlemania. Álbumes como Rubber Soul (1965), Revolver (1966) y Sgt. Pepper’s Lonely Hearts Club Band (1967) mostraron su evolución musical, explorando nuevos sonidos y temáticas. En 1969 lanzaron Abbey Road, con su icónica portada, y en 1970, Let It Be, su último álbum antes de su separación. The Beatles vendieron más de 600 millones de discos, ganaron múltiples premios y su influencia sigue vigente en la música actual. A pesar de la trágica muerte de John Lennon (1980) y George Harrison (2001), McCartney y Starr continúan representando el legado de la banda.",
+            "image": "/images/artists/rock/the-beatles/image.jpg",
+            "alt_image": "Imagen del grupo The Beatles",
+            "link": "the-beatles",
+            "curious_facts": [
+                {
+                    "title": "El concierto en la azotea",
+                    "description": "Su última presentación en vivo fue en la azotea de Apple Corps en 1969, un evento improvisado que se convirtió en un momento legendario del rock."
+                },
+                {
+                    "title": "Rechazados antes de la fama",
+                    "description": "En 1962, la disquera Decca Records los rechazó, diciendo que ❝las bandas de guitarra estaban en decadencia❞. Poco después, firmaron con EMI y cambiaron la historia."
+                },
+                {
+                    "title": "El ‘Yeah, Yeah, Yeah’ más famoso",
+                    "description": "Su canción She Loves You popularizó la frase ❝Yeah, yeah, yeah❞, marcando una era en la música pop y rock."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Yesterday",
+                    "audio": "/audio/rock/the-beatles/Yesterday.mp3",
+                    "album": "/images/artists/rock/the-beatles/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Let It Be",
+                    "audio": "/audio/rock/the-beatles/Let It Be.mp3",
+                    "album": "/images/artists/rock/the-beatles/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Together",
+                    "audio": "/audio/rock/the-beatles/Together.mp3",
+                    "album": "/images/artists/rock/the-beatles/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Something",
+                    "audio": "/audio/rock/the-beatles/Something.mp3",
+                    "album": "/images/artists/rock/the-beatles/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Hey Jude",
+                    "audio": "/audio/rock/the-beatles/Hey Jude.mp3",
+                    "album": "/images/artists/rock/the-beatles/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Twist And Shout",
+                    "audio": "/audio/rock/the-beatles/Twist And Shout.mp3",
+                    "album": "/images/artists/rock/the-beatles/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rock",
+            "name": "The Strokes",
+            "description": "The Strokes es una banda de rock alternativo y garage rock formada en Nueva York en 1998 por Julian Casablancas (voz), Nick Valensi (guitarra), Albert Hammond Jr. (guitarra), Nikolai Fraiture (bajo) y Fabrizio Moretti (batería). Son considerados pioneros del revival del rock de los 2000, influenciando a numerosas bandas con su sonido crudo y energético. Su álbum debut, Is This It (2001), fue un éxito inmediato y es considerado uno de los mejores discos de rock de la historia, con éxitos como Last Nite y Someday. En los años siguientes, lanzaron álbumes como Room on Fire (2003) y First Impressions of Earth (2006), consolidando su estilo con riffs pegadizos y letras melancólicas. Tras un período de inactividad, regresaron con The New Abnormal (2020), con el que ganaron un Grammy al Mejor Álbum de Rock. Con una carrera de más de 20 años, The Strokes sigue siendo una de las bandas más influyentes del rock moderno.",
+            "image": "/images/artists/rock/the-strokes/image.jpg",
+            "alt_image": "Imagen del grupo The Strokes",
+            "link": "the-strokes",
+            "curious_facts": [
+                {
+                    "title": "Un debut revolucionario",
+                    "description": "Is This It (2001) es considerado uno de los mejores discos de rock del siglo XXI, definiendo el sonido del indie rock de los 2000."
+                },
+                {
+                    "title": "Influenciados por el punk y el new wave",
+                    "description": "Su estilo combina influencias de bandas como The Velvet Underground, The Ramones y The Cars, creando un sonido único y nostálgico."
+                },
+                {
+                    "title": "Julian Casablancas, un líder enigmático",
+                    "description": "El vocalista tiene un estilo vocal distintivo y ha trabajado en proyectos alternos, como The Voidz, explorando sonidos más experimentales."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "The Adults Are Talking",
+                    "audio": "/audio/rock/the-strokes/The Adults Are Talking.mp3",
+                    "album": "/images/artists/rock/the-strokes/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Why Are Sundays So Depressing",
+                    "audio": "/audio/rock/the-strokes/Why Are Sundays So Depressing.mp3",
+                    "album": "/images/artists/rock/the-strokes/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Someday",
+                    "audio": "/audio/rock/the-strokes/Someday.mp3",
+                    "album": "/images/artists/rock/the-strokes/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Last Nite",
+                    "audio": "/audio/rock/the-strokes/Last Nite.mp3",
+                    "album": "/images/artists/rock/the-strokes/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Is This It",
+                    "audio": "/audio/rock/the-strokes/Is This It.mp3",
+                    "album": "/images/artists/rock/the-strokes/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Reptilia",
+                    "audio": "/audio/rock/the-strokes/Reptilia.mp3",
+                    "album": "/images/artists/rock/the-strokes/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rock",
+            "name": "Soda Stereo",
+            "description": "Soda Stereo fue una banda de rock en español formada en Buenos Aires, Argentina, en 1982 por Gustavo Cerati (voz y guitarra), Zeta Bosio (bajo) y Charly Alberti (batería). Son considerados una de las bandas más influyentes del rock latinoamericano, con un sonido innovador que combinaba new wave, post-punk y rock alternativo. Su primer álbum, Soda Stereo (1984), los llevó a la fama en Argentina, pero fue con Signos (1986) y Doble Vida (1988) que se convirtieron en estrellas en toda Latinoamérica. En los años 90, lanzaron Canción Animal (1990), con el icónico himno De música ligera, y Sueño Stereo (1995), su último álbum de estudio. La banda se separó en 1997 con un histórico concierto en Buenos Aires, donde Cerati pronunció su famosa frase: “¡Gracias... totales!”. Aunque hicieron una gira de despedida en 2007, el fallecimiento de Gustavo Cerati en 2014 marcó el fin definitivo de la banda. Su legado sigue vivo en generaciones de músicos y fanáticos.",
+            "image": "/images/artists/rock/soda-stereo/image.jpg",
+            "alt_image": "Imagen del grupo Soda Stereo",
+            "link": "soda-stereo",
+            "curious_facts": [
+                {
+                    "title": "El primer MTV Unplugged en español",
+                    "description": "En 1996, Soda Stereo grabó MTV Unplugged: Comfort y Música Para Volar, siendo una de las primeras bandas latinas en hacerlo y dejando versiones icónicas de sus temas."
+                },
+                {
+                    "title": "De música ligera, un himno del rock",
+                    "description": "La canción más famosa de la banda se ha convertido en un himno del rock en español, siendo coreada en conciertos de artistas de distintos géneros."
+                },
+                {
+                    "title": "Inspirados en The Police",
+                    "description": "Soda Stereo tomó muchas influencias de bandas como The Police y The Cure, adaptando su sonido al español y revolucionando el rock latino."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "De Música Ligera",
+                    "audio": "/audio/rock/soda-stereo/De Música Ligera.mp3",
+                    "album": "/images/artists/rock/soda-stereo/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Nada Personal",
+                    "audio": "/audio/rock/soda-stereo/Nada Personal.mp3",
+                    "album": "/images/artists/rock/soda-stereo/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Cuando Pase El Temblor",
+                    "audio": "/audio/rock/soda-stereo/Cuando Pase El Temblor.mp3",
+                    "album": "/images/artists/rock/soda-stereo/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Trátame Suavemente",
+                    "audio": "/audio/rock/soda-stereo/Trátame Suavemente.mp3",
+                    "album": "/images/artists/rock/soda-stereo/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Persiana Americana",
+                    "audio": "/audio/rock/soda-stereo/Persiana Americana.mp3",
+                    "album": "/images/artists/rock/soda-stereo/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "En la Ciudad de la Furia",
+                    "audio": "/audio/rock/soda-stereo/En la Ciudad de la Furia.mp3",
+                    "album": "/images/artists/rock/soda-stereo/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Rock",
+            "name": "Zoé",
+            "description": "Zoé es una banda de rock alternativo y psicodélico formada en México en 1997 por León Larregui (voz), Sergio Acosta (guitarra), Jesús Báez (teclados), Ángel Mosqueda (bajo) y Rodrigo Guardiola (batería). Su estilo fusiona rock espacial, indie y electrónica, con letras introspectivas y una identidad sonora única. Su álbum debut, Zoé (2001), tuvo éxito moderado, pero con Rocanlover (2003) y Memo Rex Commander y el Corazón Atómico de la Vía Láctea (2006), la banda ganó reconocimiento en Latinoamérica. En 2008, lanzaron Reptilectric, un disco que los consolidó con éxitos como Nada y Vía Láctea. En 2011, su álbum MTV Unplugged: Música de Fondo marcó un hito en su carrera, mostrando versiones acústicas de sus mayores éxitos. Aztlán (2018) les valió un Grammy Latino, confirmando su lugar en la escena musical. Con más de dos décadas de trayectoria, Zoé sigue siendo una de las bandas más influyentes del rock en español.",
+            "image": "/images/artists/rock/zoe/image.jpg",
+            "alt_image": "Imagen del grupo Zoé",
+            "link": "zoe",
+            "curious_facts": [
+                {
+                    "title": "Inspiración en el rock británico",
+                    "description": "Zoé ha citado a bandas como Pink Floyd, Radiohead y The Beatles como grandes influencias en su sonido psicodélico y atmosférico."
+                },
+                {
+                    "title": "Un Unplugged icónico",
+                    "description": "Su MTV Unplugged: Música de Fondo (2011) es uno de los más exitosos en español, con versiones memorables de Labios rotos y Luna."
+                },
+                {
+                    "title": "León Larregui, un líder enigmático",
+                    "description": "El vocalista es conocido por su estilo místico y letras poéticas, además de una carrera solista con éxitos como Brillas y Locos."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Labios Rotos - En Vivo",
+                    "audio": "/audio/rock/zoe/Labios Rotos - En Vivo.mp3",
+                    "album": "/images/artists/rock/zoe/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Vía Láctea",
+                    "audio": "/audio/rock/zoe/Vía Láctea.mp3",
+                    "album": "/images/artists/rock/zoe/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Azul",
+                    "audio": "/audio/rock/zoe/Azul.mp3",
+                    "album": "/images/artists/rock/zoe/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "10 A.M.",
+                    "audio": "/audio/rock/zoe/10 A.M..mp3",
+                    "album": "/images/artists/rock/zoe/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Karmadame",
+                    "audio": "/audio/rock/zoe/Karmadame.mp3",
+                    "album": "/images/artists/rock/zoe/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Popular",
+                    "audio": "/audio/rock/zoe/Popular.mp3",
+                    "album": "/images/artists/rock/zoe/albums/5.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Alternativo",
+            "name": "Arctic Monkeys",
+            "description": "Arctic Monkeys es una banda británica de rock alternativo e indie rock, formada en Sheffield, Inglaterra, en 2002 por Alex Turner (voz y guitarra), Jamie Cook (guitarra), Nick O’Malley (bajo) y Matt Helders (batería). Son considerados una de las bandas más importantes del siglo XXI, destacando por sus letras ingeniosas y su evolución sonora. Saltaron a la fama con Whatever People Say I Am, That’s What I’m Not (2006), su álbum debut, que se convirtió en el más vendido en la historia del Reino Unido en su primera semana. Su estilo inicial, marcado por el garage rock y post-punk revival, evolucionó con discos como Humbug (2009) y Suck It and See (2011). En 2013, lanzaron AM, su disco más exitoso, con hits como Do I Wanna Know? y R U Mine?, consolidándose como estrellas globales. En 2018 sorprendieron con Tranquility Base Hotel & Casino, un álbum más experimental. Con más de 20 años de carrera, siguen reinventándose y dominando la escena musical.",
+            "image": "/images/artists/alternativo/arctic-monkeys/image.jpg",
+            "alt_image": "Imagen del grupo Arctic Monkeys",
+            "link": "arctic-monkeys",
+            "curious_facts": [
+                {
+                    "title": "Revolucionaron la industria con internet",
+                    "description": "Arctic Monkeys fueron una de las primeras bandas en ganar fama a través de internet, ya que sus fans compartían su música en foros y MySpace antes de que tuvieran un contrato discográfico."
+                },
+                {
+                    "title": "AM: un disco icónico",
+                    "description": "Su álbum AM (2013) es uno de los más influyentes del rock moderno, con un sonido inspirado en el hip-hop y el R&B, además del rock clásico."
+                },
+                {
+                    "title": "Alex Turner, un letrista brillante",
+                    "description": "El vocalista Alex Turner es reconocido por sus letras poéticas y sarcásticas, convirtiéndolo en uno de los mejores compositores de su generación."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "505",
+                    "audio": "/audio/alternativo/arctic-monkeys/505.mp3",
+                    "album": "/images/artists/alternativo/arctic-monkeys/albums/1.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Do Me a Favour",
+                    "audio": "/audio/alternativo/arctic-monkeys/Do Me a Favour.mp3",
+                    "album": "/images/artists/alternativo/arctic-monkeys/albums/1.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Fluorescent Adolescent",
+                    "audio": "/audio/alternativo/arctic-monkeys/Fluorescent Adolescent.mp3",
+                    "album": "/images/artists/alternativo/arctic-monkeys/albums/1.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Do I Wanna Know",
+                    "audio": "/audio/alternativo/arctic-monkeys/Do I Wanna Know.mp3",
+                    "album": "/images/artists/alternativo/arctic-monkeys/albums/2.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "I Wanna Be Yours",
+                    "audio": "/audio/alternativo/arctic-monkeys/I Wanna Be Yours.mp3",
+                    "album": "/images/artists/alternativo/arctic-monkeys/albums/2.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Why'd You Only Call Me When You're High",
+                    "audio": "/audio/alternativo/arctic-monkeys/Why'd You Only Call Me When You're High.mp3",
+                    "album": "/images/artists/alternativo/arctic-monkeys/albums/2.jpg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Alternativo",
+            "name": "Coldplay",
+            "description": "Coldplay es una banda británica de rock alternativo y pop rock, formada en Londres en 1996 por Chris Martin (voz y piano), Jonny Buckland (guitarra), Guy Berryman (bajo) y Will Champion (batería). Su música combina sonidos melancólicos, letras emotivas y arreglos épicos, convirtiéndolos en una de las bandas más exitosas de la historia. Debutaron con Parachutes (2000), que incluía el icónico tema Yellow, y alcanzaron el estrellato con A Rush of Blood to the Head (2002), con éxitos como Clocks y The Scientist. Su estilo evolucionó con Viva la Vida or Death and All His Friends (2008), un álbum con influencias barrocas y experimentales, que les valió un Premio Grammy al Álbum del Año. A lo largo de su carrera, han explorado distintos géneros, desde el pop electrónico en Mylo Xyloto (2011) hasta sonidos más introspectivos en Everyday Life (2019). Su más reciente álbum, Music of the Spheres (2021), los llevó a experimentar con sonidos espaciales y colaboraciones internacionales. Con más de 100 millones de discos vendidos, Coldplay sigue llenando estadios en todo el mundo.",
+            "image": "/images/artists/alternativo/coldplay/image.jpg",
+            "alt_image": "Imagen del grupo Coldplay",
+            "link": "coldplay",
+            "curious_facts": [
+                {
+                    "title": "El origen de su nombre",
+                    "description": "Antes de llamarse Coldplay, la banda se llamaba Starfish, pero cambiaron el nombre inspirados en un poema titulado Cold Play."
+                },
+                {
+                    "title": "La canción que salvó a Chris Martin",
+                    "description": "Fix You fue escrita por Chris Martin para Gwyneth Paltrow tras la muerte de su padre. La canción se ha convertido en un himno de superación."
+                },
+                {
+                    "title": "Fans ecológicos",
+                    "description": "En su última gira, Coldplay implementó medidas ecológicas, como escenarios con energía renovable y pistas de baile que generan electricidad con el movimiento del público."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Adventure of a Lifetime",
+                    "audio": "/audio/alternativo/coldplay/Adventure of a Lifetime.mp3",
+                    "album": "/images/artists/alternativo/coldplay/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "A Sky Full of Stars",
+                    "audio": "/audio/alternativo/coldplay/A Sky Full of Stars.mp3",
+                    "album": "/images/artists/alternativo/coldplay/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Paradise",
+                    "audio": "/audio/alternativo/coldplay/Paradise.mp3",
+                    "album": "/images/artists/alternativo/coldplay/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Every Teardrop Is a Waterfall",
+                    "audio": "/audio/alternativo/coldplay/Every Teardrop Is a Waterfall.mp3",
+                    "album": "/images/artists/alternativo/coldplay/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Yellow",
+                    "audio": "/audio/alternativo/coldplay/Yellow.mp3",
+                    "album": "/images/artists/alternativo/coldplay/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Sparks",
+                    "audio": "/audio/alternativo/coldplay/Sparks.mp3",
+                    "album": "/images/artists/alternativo/coldplay/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Alternativo",
+            "name": "The Neigbourhood",
+            "description": "The Neighbourhood es una banda de rock alternativo y R&B alternativo, formada en California, Estados Unidos, en 2011 por Jesse Rutherford (voz), Zach Abels (guitarra), Jeremy Freedman (guitarra), Mikey Margott (bajo) y Brandon Fried (batería). Su estilo único fusiona indie rock, hip-hop, y sonidos oscuros y melancólicos, lo que los ha diferenciado dentro de la escena alternativa. Su primer gran éxito llegó con Sweater Weather, parte de su álbum debut I Love You. (2013), el cual los llevó a la fama internacional. Su estética en blanco y negro, tanto en su música como en sus videoclips, los hizo destacar visualmente. En años posteriores, lanzaron álbumes como Wiped Out! (2015) y The Neighbourhood (2018), donde exploraron un sonido más experimental. En 2021, la banda entró en pausa indefinida y Jesse Rutherford inició su carrera solista. A pesar de ello, su impacto en la música alternativa sigue siendo fuerte.",
+            "image": "/images/artists/alternativo/the-neighbourhood/image.jpg",
+            "alt_image": "Imagen del grupo The Neigbourhood",
+            "link": "the-neighbourhood",
+            "curious_facts": [
+                {
+                    "title": "El impacto de Sweater Weather",
+                    "description": "Sweater Weather se convirtió en un himno del indie rock y sigue siendo una de las canciones más virales en redes sociales, especialmente en TikTok."
+                },
+                {
+                    "title": "Blanco y negro, una identidad",
+                    "description": "Durante sus primeros años, The Neighbourhood solo publicaba contenido en blanco y negro, desde videoclips hasta imágenes promocionales, como parte de su estética única."
+                },
+                {
+                    "title": "Jesse Rutherford y su estilo ecléctico",
+                    "description": "El vocalista Jesse Rutherford ha experimentado con moda, tatuajes y música en solitario, creando una imagen icónica dentro de la cultura alternativa."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Sweater Weather",
+                    "audio": "/audio/alternativo/the-neighbourhood/Sweater Weather.mp3",
+                    "album": "/images/artists/alternativo/the-neighbourhood/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "The Beach",
+                    "audio": "/audio/alternativo/the-neighbourhood/The Beach.mp3",
+                    "album": "/images/artists/alternativo/the-neighbourhood/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Daddy Issues",
+                    "audio": "/audio/alternativo/the-neighbourhood/Daddy Issues.mp3",
+                    "album": "/images/artists/alternativo/the-neighbourhood/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Softcore",
+                    "audio": "/audio/alternativo/the-neighbourhood/Softcore.mp3",
+                    "album": "/images/artists/alternativo/the-neighbourhood/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Scary Love",
+                    "audio": "/audio/alternativo/the-neighbourhood/Scary Love.mp3",
+                    "album": "/images/artists/alternativo/the-neighbourhood/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Dangerous (feat. YG)",
+                    "audio": "/audio/alternativo/the-neighbourhood/Dangerous (feat. YG).mp3",
+                    "album": "/images/artists/alternativo/the-neighbourhood/albums/4.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Alternativo",
+            "name": "Imagine Dragons",
+            "description": "Imagine Dragons es una banda estadounidense de rock alternativo y pop rock, formada en Las Vegas, Nevada, en 2008 por Dan Reynolds (voz), Wayne Sermon (guitarra), Ben McKee (bajo) y Daniel Platzman (batería). Su estilo fusiona rock, pop y electrónica, con letras emotivas y coros potentes. La banda alcanzó la fama mundial con Night Visions (2012), que incluyó el éxito Radioactive, considerado uno de los mayores himnos del rock moderno. Su sonido energético y cinematográfico continuó con álbumes como Smoke + Mirrors (2015), Evolve (2017) y Origins (2018), con éxitos como Believer y Thunder. Con múltiples premios Grammy, Billboard y American Music Awards, Imagine Dragons se ha consolidado como una de las bandas más influyentes de la última década. Su último álbum, Mercury - Act 1 & 2 (2021-2022), muestra un lado más personal y experimental de la banda.",
+            "image": "/images/artists/alternativo/imagine-dragons/image.jpg",
+            "alt_image": "Imagen del grupo The Neigbourhood",
+            "link": "imagine-dragons",
+            "curious_facts": [
+                {
+                    "title": "El significado de su nombre",
+                    "description": "❝Imagine Dragons❞ es un anagrama de una frase secreta que solo los miembros de la banda conocen y nunca han revelado."
+                },
+                {
+                    "title": "Radioactive, un récord histórico",
+                    "description": "La canción Radioactive estuvo 87 semanas en el Billboard Hot 100, un récord en su momento, y fue nombrada “la mayor canción de rock de la década” por la revista Rolling Stone."
+                },
+                {
+                    "title": "Dan Reynolds y su lucha personal",
+                    "description": "SEl vocalista Dan Reynolds ha hablado abiertamente sobre su batalla contra la depresión y enfermedades autoinmunes, convirtiéndose en un defensor de la salud mental y los derechos LGBTQ+."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Believer",
+                    "audio": "/audio/alternativo/imagine-dragons/Believer.mp3",
+                    "album": "/images/artists/alternativo/imagine-dragons/albums/1.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Thunder",
+                    "audio": "/audio/alternativo/imagine-dragons/Thunder.mp3",
+                    "album": "/images/artists/alternativo/imagine-dragons/albums/1.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Whatever It Takes",
+                    "audio": "/audio/alternativo/imagine-dragons/Whatever It Takes.mp3",
+                    "album": "/images/artists/alternativo/imagine-dragons/albums/1.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "It's Time",
+                    "audio": "/audio/alternativo/imagine-dragons/It's Time.mp3",
+                    "album": "/images/artists/alternativo/imagine-dragons/albums/1.jpg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Radioactive",
+                    "audio": "/audio/alternativo/imagine-dragons/Radioactive.mp3",
+                    "album": "/images/artists/alternativo/imagine-dragons/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Demons",
+                    "audio": "/audio/alternativo/imagine-dragons/Demons.mp3",
+                    "album": "/images/artists/alternativo/imagine-dragons/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        },
+        {
+            "genre": "Alternativo",
+            "name": "Joji",
+            "description": "Joji, cuyo nombre real es George Kusunoki Miller, es un cantante, productor y compositor japonés-australiano, nacido el 18 de septiembre de 1992. Antes de su carrera musical, fue conocido como Filthy Frank, un personaje de comedia en YouTube que influyó en la cultura de internet con su humor irreverente y la creación del meme Harlem Shake. En 2017, Joji dejó su faceta como comediante para enfocarse en la música, mostrando su talento en el lo-fi, R&B alternativo y música experimental. Su primer álbum, Ballads 1 (2018), lo llevó a la fama con éxitos como Slow Dancing in the Dark. Luego lanzó Nectar (2020), consolidando su estilo melancólico y emotivo. En 2022, estrenó Smithereens, con canciones como Glimpse of Us, la cual se convirtió en su mayor éxito en plataformas de streaming. Su música, caracterizada por letras introspectivas y sonidos envolventes, lo ha convertido en una de las figuras más destacadas del R&B alternativo.",
+            "image": "/images/artists/alternativo/joji/image.jpg",
+            "alt_image": "Imagen del grupo The Neigbourhood",
+            "link": "joji",
+            "curious_facts": [
+                {
+                    "title": "De meme a artista serio",
+                    "description": "Antes de ser músico, Joji fue uno de los creadores de contenido más influyentes de YouTube, pero abandonó la plataforma por problemas de salud y para seguir su verdadera pasión: la música."
+                },
+                {
+                    "title": "Glimpse of Us, un fenómeno inesperado",
+                    "description": "La balada Glimpse of Us (2022) se volvió viral y llegó al Top 10 del Billboard Hot 100, siendo su canción más exitosa hasta la fecha."
+                },
+                {
+                    "title": "Un artista multifacético",
+                    "description": "Además de cantar y componer, Joji produce sus propias canciones y ha influenciado la escena del R&B alternativo con su estilo introspectivo y único."
+                }
+            ],
+            "songs": [
+                {
+                    "name": "Glimpse Of Us",
+                    "audio": "/audio/alternativo/joji/Glimpse of Us.mp3",
+                    "album": "/images/artists/alternativo/joji/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Die For You",
+                    "audio": "/audio/alternativo/joji/Die For You.mp3",
+                    "album": "/images/artists/alternativo/joji/albums/1.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Like You Do",
+                    "audio": "/audio/alternativo/joji/Like You Do.mp3",
+                    "album": "/images/artists/alternativo/joji/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "Ew",
+                    "audio": "/audio/alternativo/joji/Ew.mp3",
+                    "album": "/images/artists/alternativo/joji/albums/2.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "SLOW DANCING IN THE DARK",
+                    "audio": "/audio/alternativo/joji/SLOW DANCING IN THE DARK.mp3",
+                    "album": "/images/artists/alternativo/joji/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                },
+                {
+                    "name": "TEST DRIVE",
+                    "audio": "/audio/alternativo/joji/TEST DRIVE.mp3",
+                    "album": "/images/artists/alternativo/joji/albums/3.jpeg",
+                    "alt_image": "Imagen del albúm"
+                }
+            ]
+        }
+    ]
+}

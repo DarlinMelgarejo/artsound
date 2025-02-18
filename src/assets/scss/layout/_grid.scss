@@ -1,0 +1,43 @@
+.grid {
+    display: grid;
+}
+
+@each $key, $breakpoint in $breakpoints {
+    @include from($key) {
+        .grid-#{$key} {
+            display: grid !important;
+        }
+    }
+} 
+
+@for $i from 1 through 5 {
+    .gap-#{$i} {
+        gap: #{$i*1rem};
+    }
+}
+
+@for $i from 1 through 20 {
+    .grid-cols-#{$i} {
+        grid-template-columns: repeat(#{$i}, 1fr);
+    }
+}
+
+@each $key, $breakpoint in $breakpoints {
+    @include from($key) {
+        @for $i from 1 through 20 {
+            .grid-cols-#{$key}-#{$i} {
+                grid-template-columns: repeat(#{$i}, 1fr);
+            }
+        }
+    }
+} 
+
+@for $i from 2 through 10 {
+    .grid-row-#{$i} {
+        grid-row: span #{$i};
+    }
+
+    .grid-column-#{$i} {
+        grid-column: span #{$i};
+    }
+}

@@ -1,0 +1,11 @@
+@keyframes slider-scroll {
+    0% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+    
+    100% {
+        -webkit-transform: translateX(calc(-300px * 3));
+        transform: translateX(-300px);
+    }
+}

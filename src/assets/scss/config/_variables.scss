@@ -1,0 +1,91 @@
+$max-width: 1200px;
+$header-height: 4rem;
+
+$colors: (
+    primary: #ca8bf5,
+    secondary: #9fdbe6,
+    tertiary: #7678bc,
+    light: #e5f3ee,
+    white: #FFFFFF,
+    black: #000000,
+    dark: #3e4160,
+    border: #CCCCCC,
+    text: #e5f3ee
+);
+
+$transition-time: 0.3s;
+
+$breakpoints: (
+    s: 600px,
+    m: 768px,
+    l: 960px,
+    xl: 1200px,
+    xxl: 1400px
+);
+
+:root {
+    /* Variables de apilamiento (z-index) */
+    --z-back : -10;
+    --z-normal: 0;
+    --z-tooltip: 10;
+    --z-fixed: 100;
+    --z-modal: 1000;
+
+    /* Variables de tipografia */
+    --h1-font-size: 1.5rem;
+    --h2-font-size: 1.375rem;
+    --h3-font-size: 1.25rem;
+    --h4-font-size: 1.125rem;
+    --h5-font-size: 1rem;
+    --h6-font-size: .875rem;
+    --body-font-size: 1rem;
+    --small-font-size: .875rem;
+    
+    
+    @include from(s) {
+        --h1-font-size: 1.75rem;
+        --h2-font-size: 1.5rem;
+        --h3-font-size: 1.375rem;
+        --h4-font-size: 1.25rem;
+        --h5-font-size: 1.125rem;
+        --h6-font-size: 1rem;
+    }
+    
+    @include from(m) {
+        --h1-font-size: 2rem;
+        --h2-font-size: 1.625rem;
+        --h3-font-size: 1.5rem;
+        --h4-font-size: 1.375rem;
+        --h5-font-size: 1.25rem;
+        --h6-font-size: 1.125rem;
+    }
+    
+    @include from(l) {
+        --h1-font-size: 2rem;
+        --h2-font-size: 1.75rem;
+        --h3-font-size: 1.625rem;
+        --h4-font-size: 1.5rem;
+        --h5-font-size: 1.25rem;
+        --h6-font-size: 1.125rem;
+        --body-font-size: 1.125rem;
+    }
+    
+    @include from(xl) {
+        --h1-font-size: 3rem;
+        --h2-font-size: 1.875rem;
+        --h3-font-size: 1.75rem;
+        --h4-font-size: 1.625rem;
+        --h5-font-size: 1.25rem;
+        --h6-font-size: 1.125rem;
+        --body-font-size: 1.25rem;
+    }
+    
+    @include from(xxl) {
+        --h1-font-size: 2.125rem;
+        --h2-font-size: 2rem;
+        --h3-font-size: 1.875rem;
+        --h4-font-size: 1.75rem;
+        --h5-font-size: 1.375rem;
+        --h6-font-size: 1.25rem;
+    }
+}

@@ -1,0 +1,10 @@
+@keyframes scale-up {
+    20% {
+        background-color: color(white);
+        transform: scaleY(1.125);
+    }
+  
+    40% {
+        transform: scaleY(1);
+    }
+}
