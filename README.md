@@ -12,19 +12,20 @@ ArtSound es un sitio web informativo sobre géneros musicales y artistas, desarr
 ## 💂️👤 Estructura del Proyecto
 
 ```
-📺 ArtSound
-👀 public        # Contiene imágenes, iconos y canciones
-👀 src
-👉🏻 assets      # Recursos necesarios (fuentes, imagenes, estilos) 
-👉🏻 components  # Componentes reutilizables
-👉🏻 pages       # Páginas del sitio
-👉🏻 data        # Datos en formato JSON (genres.json, artists.json)
-👉🏻 styles      # Estilos en SCSS
-👉🏻 App.jsx        # Componente principal
-👉🏻 main.jsx       # Punto de entrada
-👉🏻 routes.jsx     # Configuración de rutas
 README.md
+📦 ArtSound
+├── 📂 public        # Contiene imágenes, iconos y canciones
+├── 📂 src
+│   ├── 📂 assets      # Recursos necesarios (fuentes, imagenes, estilos)
+│   ├── 📂 components  # Componentes reutilizables
+│   ├── 📂 pages       # Páginas del sitio
+│   ├── 📂 data        # Datos en formato JSON (genres.json, artists.json)
+│   ├── 📂 styles      # Estilos en SCSS
+│   ├── App.jsx             # Componente principal
+│   ├── main.jsx            # Punto de entrada
+└── README.md
 ```
+
 
 ## 📊 Datos Utilizados
 
@@ -46,7 +47,7 @@ Toda la información de géneros y artistas está almacenada en archivos **JSON*
 1️⃣ Clona el repositorio:
 
 ```sh
-git clone https://github.com/tu-usuario/ArtSound.git
+git clone https://github.com/DarlinMelgarejo/artsound.git
 ```
 
 2️⃣ Accede al proyecto:
@@ -66,17 +67,3 @@ npm install
 ```sh
 npm run dev
 ```
-
-## 🌍 Despliegue
-
-Este proyecto puede ser desplegado en **Netlify, Vercel o GitHub Pages**.  
-Para un despliegue rápido en **Netlify**:
-
-```sh
-netlify deploy
-```
-
-## 🐝 Licencia
-
-Este proyecto está bajo la licencia **MIT**. ¡Siéntete libre de contribuir y mejorarlo! 🚀
-
