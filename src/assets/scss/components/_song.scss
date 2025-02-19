@@ -1,18 +1,36 @@
 .song {
     display: flex;
-    flex-direction: row;
     align-items: center;
-    height: 4rem;
-    padding: 0 1rem;
-    border-radius: 1rem;
-    transition: .4s ease-in-out;
-    text-decoration: none;
-    background: none;
-    // border: 1px solid color(text);
-    width: 100%;
-    cursor: pointer;
-    margin: 0;
-    outline: none;
+    gap: 1rem;
+
+    &__content {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 4rem;
+        padding: 0 1rem;
+        border-radius: 1rem;
+        transition: .4s ease-in-out;
+        text-decoration: none;
+        background: none;
+        // border: 1px solid color(text);
+        width: 100%;
+        cursor: pointer;
+        margin: 0;
+        outline: none;
+        
+        &:hover {
+            background-color: color(text);
+    
+            .song__name {
+                color: color(black);
+            }
+            
+            .load {
+                background-color: color(dark);
+            }
+        }
+    }
 
     &__name {
         width: 100%;
@@ -20,19 +38,6 @@
         color: color(text);
     }
 
-    &:hover {
-        background-color: color(text);
-
-        .song__name {
-            color: color(black);
-        }
-
-        .play {
-            .load {
-                background-color: color(dark);
-            }
-        }
-    }
 
     &__album {
         max-height: 40px;

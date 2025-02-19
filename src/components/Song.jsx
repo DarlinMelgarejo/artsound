@@ -1,5 +1,6 @@
 import PropTypes from "prop-types";
 import { useState, useRef, useEffect } from "react";
+import { DownloadIcon } from "./Icons";
 
 export const Song = ({ name_song, image_album, alt_image, audio, isSelected, onSelect }) => {
     const songRef = useRef(null);
@@ -51,22 +52,29 @@ export const Song = ({ name_song, image_album, alt_image, audio, isSelected, onS
     }, [isSelected]); // Dependemos del estado `isSelected` para controlar la reproducción
 
     return (
-        <div className="song" onClick={handleClick}>
-            <div className={`${isPlaying ? "play" : "pause"}`}>
-                <div className="load"></div>
-                <div className="load"></div>
-                <div className="load"></div>
-                <div className="load"></div>
+        
+        <div className="song">
+            <div className="song__content" onClick={handleClick}>
+                <div className={`${isPlaying ? "play" : "pause"}`}>
+                    <div className="load"></div>
+                    <div className="load"></div>
+                    <div className="load"></div>
+                    <div className="load"></div>
+                </div>
+                <div className="song__album">
+                    <img src={image_album} alt={alt_image} />
+                </div>
+                <div className="song__name">{name_song}</div>
+                <audio
+                    ref={songRef}
+                    onEnded={handleEnded}
+                    onCanPlayThrough={handleCanPlayThrough} // Escuchamos cuando el audio esté listo para reproducirse
+                />
+
             </div>
-            <div className="song__album">
-                <img src={image_album} alt={alt_image} />
-            </div>
-            <div className="song__name">{name_song}</div>
-            <audio
-                ref={songRef}
-                onEnded={handleEnded}
-                onCanPlayThrough={handleCanPlayThrough} // Escuchamos cuando el audio esté listo para reproducirse
-            />
+            <a className="song__download" href={audio} download={name_song + ".mp3"} title={`Descargar canción ${name_song}`}>
+                <DownloadIcon />
+            </a>
         </div>
     );
 };
